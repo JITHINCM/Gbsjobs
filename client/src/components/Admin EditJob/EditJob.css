@@ -1,0 +1,307 @@
+.jobfield-name {
+    position: absolute;
+    left: 8.35%;
+    right: 83.52%;
+    top: 24.58%;
+    bottom: 72.22%;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: rgba(0, 0, 0, 0.55);
+}
+
+.jobfield-namebox {
+    position: absolute;
+    left: 15.34%;
+    right: 65.66%;
+    bottom: 70.72%;
+    padding-top: 30px;
+
+    background: rgba(217, 217, 217, 0.72);
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    border-color: transparent;
+}
+
+.jobfield-Category {
+    position: absolute;
+    left: 8%;
+    right: 83.52%;
+    top: 37.58%;
+    bottom: 72.22%;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+
+
+    color: rgba(0, 0, 0, 0.55);
+}
+
+.jobfield-Categorybox {
+    position: absolute;
+    left: 15.34%;
+    right: 65.66%;
+
+    bottom: 57.72%;
+    padding-top: 30px;
+
+    background: rgba(217, 217, 217, 0.72);
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    border-color: transparent;
+}
+
+
+.jobfield-Openings {
+    position: absolute;
+    left: 8%;
+    right: 83.52%;
+    top: 50.58%;
+    bottom: 72.22%;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+
+
+
+    color: rgba(0, 0, 0, 0.55);
+}
+
+.jobfield-Openingsbox {
+    position: absolute;
+    left: 15.34%;
+    right: 65.66%;
+
+    bottom: 44.72%;
+    padding-top: 30px;
+
+    background: rgba(217, 217, 217, 0.72);
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    border-color: transparent;
+}
+
+
+.jobfield-Skills {
+    position: absolute;
+    left: 8.02%;
+    right: 83.52%;
+    top: 63.58%;
+    bottom: 72.22%;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: rgba(0, 0, 0, 0.55);
+}
+
+.jobfield-Skillsbox {
+    position: absolute;
+    left: 15.34%;
+    right: 65.66%;
+    bottom: 25.72%;
+    padding-top: 85px;
+
+    background: rgba(217, 217, 217, 0.72);
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    border-color: transparent;
+}
+
+
+.jobfield-Type {
+    position: absolute;
+    left: 8.02%;
+    right: 83.52%;
+    top: 80.58%;
+    bottom: 72.22%;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: rgba(0, 0, 0, 0.55);
+}
+
+.jobfield-Typebox {
+    position: absolute;
+    left: 15.34%;
+    right: 65.66%;
+    bottom: 14.72%;
+    padding-top: 30px;
+
+    background: rgba(217, 217, 217, 0.72);
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    border-color: transparent;
+}
+
+.jobfield-Description {
+    position: absolute;
+    left: 54.35%;
+    right: 83.52%;
+    top: 24.58%;
+    bottom: 72.22%;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: rgba(0, 0, 0, 0.55);
+}
+
+.jobfield-Descriptionbox {
+    position: absolute;
+    left: 63.34%;
+    right: 14.66%;
+    bottom: 64.72%;
+    padding-top: 85px;
+
+    background: rgba(217, 217, 217, 0.72);
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    border-color: transparent;
+}
+
+
+.jobfield-Experience {
+    position: absolute;
+    left: 54.35%;
+    right: 83.52%;
+    top: 42.58%;
+    bottom: 72.22%;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: rgba(0, 0, 0, 0.55);
+}
+
+.jobfield-Experiencebox {
+    position: absolute;
+    left: 63.34%;
+    right: 14.66%;
+    bottom: 51.72%;
+    padding-top: 35px;
+
+    background: rgba(217, 217, 217, 0.72);
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    border-color: transparent;
+}
+
+
+.jobfield-Salary {
+    position: absolute;
+    left: 54.35%;
+    right: 83.52%;
+    top: 55.58%;
+    bottom: 72.22%;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: rgba(0, 0, 0, 0.55);
+}
+
+.jobfield-Salarybox {
+    position: absolute;
+    left: 63.34%;
+    right: 14.66%;
+    bottom: 39.72%;
+    padding-top: 35px;
+
+    background: rgba(217, 217, 217, 0.72);
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    border-color: transparent;
+}
+
+
+.jobfield-ContactNo {
+    position: absolute;
+    left: 54.35%;
+    right: 83.52%;
+    top: 67.58%;
+    bottom: 72.22%;
+    width: 114px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: rgba(0, 0, 0, 0.55);
+}
+
+.jobfield-ContactNobox {
+    position: absolute;
+    left: 63.34%;
+    right: 14.66%;
+    bottom: 27.72%;
+    padding-top: 35px;
+
+    background: rgba(217, 217, 217, 0.72);
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    border-color: transparent;
+}
+
+
+.jobfield-LastDate {
+    position: absolute;
+    left: 54.35%;
+    right: 83.52%;
+    top: 79.58%;
+    bottom: 72.22%;
+    width: 114px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: rgba(0, 0, 0, 0.55);
+}
+
+.jobfield-LastDatebox {
+    position: absolute;
+    left: 63.34%;
+    right: 14.66%;
+    bottom: 15.72%;
+    padding-top: 35px;
+
+    background: rgba(217, 217, 217, 0.72);
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    border-color: transparent;
+}
+
+.Jobeditbtn {
+    position: absolute;
+    left: 45.19%;
+    right: 50.19%;
+    top: 90.44%;
+    bottom: 5%;
+
+    background: rgba(250, 125, 118, 0.82);
+    border-radius: 10px;
+    border-color: transparent;
+    cursor: pointer;
+}

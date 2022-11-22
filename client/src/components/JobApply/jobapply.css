@@ -1,0 +1,253 @@
+/* nav */
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+    padding: 0 2rem;
+    background: linear-gradient(180deg, #DC8BA3 7.81%, #FF9691 91.15%);
+}
+
+/* nav icon */
+.job5 {
+    padding-right: 80%;
+    margin-left: 27px;
+    WIDTH: 61%;
+}
+
+/* nav text */
+.navtxtjob {
+
+    position: absolute;
+    width: 82px;
+    height: 27px;
+    left: 920px;
+    top: 33px;
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    cursor: pointer;
+
+}
+
+.navtxtjob1 {
+
+    position: absolute;
+    width: 82px;
+    height: 27px;
+    left: 1020px;
+    top: 33px;
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    cursor: pointer;
+
+}
+
+.navtxtjob2 {
+
+    position: absolute;
+    width: 146px;
+    height: 27px;
+    left: 1120px;
+    top: 33px;
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.navtxtjob3 {
+
+    position: absolute;
+    width: 82px;
+    height: 27px;
+    left: 1280px;
+    top: 33px;
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.navtxtjob4 {
+
+    position: absolute;
+    width: 82px;
+    height: 27px;
+    left: 1380px;
+    top: 33px;
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+/* applied jobs */
+.jobtext {
+    position: absolute;
+    left: 43.2%;
+    right: 39.61%;
+    top: 15.11%;
+    bottom: 72.92%;
+
+    font-family: 'Bauhaus 93';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+
+    color: #000000;
+}
+
+/* container */
+.job-container {
+    position: absolute;
+    left: 27.34%;
+    right: 30.08%;
+    top: 23.33%;
+    bottom: 55.83%;
+
+    background: #F8F7F7;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.job-text {
+    position: absolute;
+    width: 291px;
+    left: 21.97%;
+    right: 45.94%;
+    top: 6.58%;
+    bottom: 67.08%;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+
+    color: #184F79;
+}
+
+.jobinlinetxt {
+    position: absolute;
+    left: 3%;
+    right: 46.64%;
+    top: 30%;
+    bottom: 54.03%;
+
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #1E11FD;
+}
+
+.jobinlinetxtin {
+
+    color: #000000;
+    margin-top: 13%;
+    margin-left: 3%;
+}
+
+.aapbtn {
+    position: absolute;
+    left: 56.72%;
+    right: 31.09%;
+    top: 30.22%;
+    bottom: 57.22%;
+    height: 5%;
+    background: #DAEDFF;
+    border-radius: 10px;
+    border-color: transparent;
+    cursor: pointer;
+}
+
+.job1-container {
+    position: absolute;
+    left: 27.34%;
+    right: 30.08%;
+    top: 48.33%;
+    bottom: 29.83%;
+
+
+    background: #F8F7F7;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.job-text1 {
+    position: absolute;
+    width: 324px;
+    left: 21.97%;
+    right: 45.94%;
+    top: 6.58%;
+    bottom: 67.08%;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+
+    color: #184F79;
+}
+
+.aapbtn1 {
+    position: absolute;
+    left: 56.72%;
+    right: 31.09%;
+    top: 60%;
+    bottom: 57.22%;
+    height: 5%;
+
+    background: #9AFFC2;
+    border-radius: 10px;
+    border-color: transparent;
+}
+
+.job2-container {
+    position: absolute;
+    left: 27.34%;
+    right: 30.08%;
+    top: 73.97%;
+    bottom: 3.19%;
+
+    background: #F8F7F7;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.aapbtn2 {
+
+    position: absolute;
+    left: 56.56%;
+    right: 31.25%;
+    top: 85%;
+    bottom: 11.94%;
+    height: 5%;
+
+    background: #FECBBB;
+    border-radius: 10px;
+    border-color: transparent;
+}

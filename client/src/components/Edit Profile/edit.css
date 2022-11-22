@@ -1,0 +1,254 @@
+/* text */
+.edittxt {
+    position: absolute;
+    width: 328px;
+    height: 38px;
+    left: 489px;
+    top: 104px;
+
+    font-family: 'Cambo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27px;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+/* form */
+.editnametxt {
+    position: absolute;
+    width: 200px;
+    height: 29px;
+    left: 366px;
+    top: 188px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 23px;
+    color: rgba(0, 0, 0, 0.51);
+
+
+}
+
+
+.editboxs {
+    position: absolute;
+    width: 235px;
+    height: 27px;
+    left: 361px;
+    top: 212px;
+
+    background: #F8F7F7;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    border-color: transparent;
+}
+
+.editnametxt1 {
+    position: absolute;
+    width: 253px;
+    height: 28px;
+    left: 365px;
+    top: 280px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+
+    color: rgba(0, 0, 0, 0.51);
+
+}
+
+.editboxs1 {
+    position: absolute;
+    width: 246px;
+    height: 27px;
+    left: 364px;
+    top: 305px;
+
+    background: #F8F7F7;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    border-color: transparent;
+}
+
+.editnametxt2 {
+    position: absolute;
+    width: 200px;
+    height: 29px;
+    left: 708px;
+    top: 187px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+
+    color: rgba(0, 0, 0, 0.51);
+}
+
+.editboxs2 {
+    position: absolute;
+    width: 241px;
+    height: 27px;
+    left: 707px;
+    top: 212px;
+
+    background: #F8F7F7;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    border-color: transparent;
+}
+
+.editnametxt3 {
+    position: absolute;
+    width: 201px;
+    height: 28px;
+    left: 711px;
+    top: 280px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+
+    color: rgba(0, 0, 0, 0.51);
+
+}
+
+.editboxs3 {
+    position: absolute;
+    width: 245px;
+    height: 27px;
+    left: 708px;
+    top: 306px;
+
+    background: #F8F7F7;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    border-color: transparent;
+}
+
+.editnametxt4 {
+    position: absolute;
+    width: 75px;
+    height: 27px;
+    left: 713px;
+    top: 366px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.editboxs4 {
+
+    position: absolute;
+    width: 238px;
+    height: 67px;
+    left: 706px;
+    top: 394px;
+
+
+    background: #F8F7F7;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    border-color: transparent;
+}
+
+.editnametxt5 {
+    position: absolute;
+    width: 178px;
+    height: 27px;
+    left: 452px;
+    top: 550px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+
+    color: rgba(0, 0, 0, 0.5);
+
+}
+
+.editboxs5 {
+    position: absolute;
+    left: 36%;
+    right: 48.48%;
+    ;
+    top: 68%;
+    bottom: 16.11%;
+
+    background: #F8F7F7;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    border-color: transparent;
+}
+
+/* radio button */
+.gender {
+    position: absolute;
+    left: 25%;
+    right: 70%;
+    top: 52%;
+    bottom: 38.19%;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+
+    color: rgba(0, 0, 0, 0.51);
+}
+
+.editradio {
+    position: absolute;
+    width: 225px;
+    height: 46px;
+    left: 394px;
+    top: 450px;
+
+    background: #FFFFFF;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.editradio1 {
+    position: absolute;
+    width: 152px;
+    height: 46px;
+    left: 500px;
+    top: 450px;
+
+    background: #FFFFFF;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+/* submit button */
+.submit {
+    position: absolute;
+    width: 73px;
+    height: 29px;
+    left: 700px;
+    top: 690px;
+
+    background: linear-gradient(180deg, rgba(239, 64, 54, 0.6724) 0%, rgba(255, 195, 119, 0.82) 100%);
+    border-radius: 10px;
+    color: #F6FFF5;
+    cursor: pointer;
+}

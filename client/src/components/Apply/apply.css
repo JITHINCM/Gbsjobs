@@ -1,0 +1,371 @@
+/* nav icon */
+.job4 {
+    padding-right: 80%;
+    margin-left: 27px;
+    WIDTH: 61%;
+}
+
+
+/* navtext */
+.navtxtapl {
+
+    position: absolute;
+    width: 82px;
+    height: 27px;
+    left: 920px;
+    top: 33px;
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.navtxtapl1 {
+
+    position: absolute;
+    width: 82px;
+    height: 27px;
+    left: 1020px;
+    top: 33px;
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    cursor: pointer;
+
+}
+
+.navtxtapl2 {
+
+    position: absolute;
+    width: 146px;
+    height: 27px;
+    left: 1120px;
+    top: 33px;
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.navtxtapl3 {
+
+    position: absolute;
+    width: 82px;
+    height: 27px;
+    left: 1280px;
+    top: 33px;
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.navtxtapl4 {
+
+    position: absolute;
+    width: 82px;
+    height: 27px;
+    left: 1380px;
+    top: 33px;
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+/* text */
+.aplytxt {
+    position: absolute;
+    width: 328px;
+    height: 38px;
+    left: 489px;
+    top: 104px;
+
+    font-family: 'Cambo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 27px;
+    text-align: center;
+
+    color: #000000;
+}
+
+/* form */
+.nametxt {
+    position: absolute;
+    width: 200px;
+    height: 29px;
+    left: 366px;
+    top: 188px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 23px;
+    color: rgba(0, 0, 0, 0.51);
+
+
+}
+
+.boxs {
+    position: absolute;
+    width: 235px;
+    height: 27px;
+    left: 361px;
+    top: 212px;
+
+    background: #F8F7F7;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    border-color: transparent;
+}
+
+.nametxt1 {
+    position: absolute;
+    width: 253px;
+    height: 28px;
+    left: 365px;
+    top: 280px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 23px;
+
+    color: rgba(0, 0, 0, 0.51);
+
+}
+
+.box1 {
+    position: absolute;
+    width: 246px;
+    height: 27px;
+    left: 364px;
+    top: 305px;
+
+    background: #F8F7F7;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    border-color: transparent;
+}
+
+.nametxt2 {
+    position: absolute;
+    width: 200px;
+    height: 29px;
+    left: 708px;
+    top: 187px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 23px;
+
+    color: rgba(0, 0, 0, 0.51);
+}
+
+.box2 {
+    position: absolute;
+    width: 241px;
+    height: 27px;
+    left: 707px;
+    top: 212px;
+
+    background: #F8F7F7;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    border-color: transparent;
+}
+
+.nametxt3 {
+    position: absolute;
+    width: 201px;
+    height: 28px;
+    left: 711px;
+    top: 280px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 23px;
+
+    color: rgba(0, 0, 0, 0.51);
+
+}
+
+.box3 {
+    position: absolute;
+    width: 245px;
+    height: 27px;
+    left: 708px;
+    top: 306px;
+
+    background: #F8F7F7;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    border-color: transparent;
+}
+
+.nametxt4 {
+    position: absolute;
+    width: 75px;
+    height: 27px;
+    left: 713px;
+    top: 366px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 23px;
+
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.box4 {
+
+    position: absolute;
+    width: 238px;
+    height: 67px;
+    left: 706px;
+    top: 394px;
+
+
+    background: #F8F7F7;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    border-color: transparent;
+}
+
+.nametxt5 {
+    position: absolute;
+    width: 178px;
+    height: 27px;
+    left: 712px;
+    top: 500px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 23px;
+
+    color: rgba(0, 0, 0, 0.5);
+
+}
+
+.box5 {
+    position: absolute;
+    width: 132px;
+    height: 33px;
+    left: 797px;
+    top: 491px;
+
+    background: #F8F7F7;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    border-color: transparent;
+}
+
+/* radio button */
+.radio {
+    position: absolute;
+    width: 225px;
+    height: 46px;
+    left: 361px;
+    top: 350px;
+
+    background: #FFFFFF;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.radio1 {
+    position: absolute;
+    width: 152px;
+    height: 46px;
+    left: 451px;
+    top: 350px;
+
+    background: #FFFFFF;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.radioOther{
+    position: absolute;
+    width: 152px;
+    height: 46px;
+    left: 527px;
+    top: 350px;
+
+    background: #FFFFFF;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+/* resum uplod */
+.resume {
+    position: absolute;
+    width: 192px;
+    height: 26px;
+    left: 366px;
+    top: 398px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 23px;
+
+    color: #888484;
+}
+
+/* btn for choose */
+.choose {
+    position: absolute;
+    width: 300px;
+    height: 26px;
+    left: 389px;
+    top: 438px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    /* font-size: 15px; */
+    /* line-height: 23px; */
+
+    color: #000000;
+
+}
+
+/* submit button */
+.submit {
+    position: absolute;
+    width: 73px;
+    height: 29px;
+    left: 623px;
+    top: 590px;
+
+    background: linear-gradient(180deg, rgba(239, 64, 54, 0.6724) 0%, rgba(255, 195, 119, 0.82) 100%);
+    border-radius: 10px;
+    color: #F6FFF5;
+    cursor: pointer;
+}

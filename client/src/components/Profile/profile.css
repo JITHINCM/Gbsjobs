@@ -1,0 +1,375 @@
+/* nav */
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+    padding: 0 2rem;
+    background: linear-gradient(180deg, #DC8BA3 7.81%, #FF9691 91.15%);
+}
+
+/* nav icon
+.job1 {
+    padding-right: 80%;
+    margin-left: 27px;
+    WIDTH: 61%;
+}
+
+/* navtext */
+/* .navtxthm {
+
+    position: absolute;
+    width: 82px;
+    height: 27px;
+    left: 920px;
+    top: 33px;
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    cursor: pointer;
+
+}
+
+.navtxthm1 {
+
+    position: absolute;
+    width: 82px;
+    height: 27px;
+    left: 1020px;
+    top: 33px;
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    cursor: pointer;
+
+}
+
+.navtxthm2 {
+
+    position: absolute;
+    width: 141px;
+    height: 27px;
+    left: 1120px;
+    top: 33px;
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.navtxthm3 {
+
+    position: absolute;
+    width: 82px;
+    height: 27px;
+    left: 1280px;
+    top: 33px;
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    cursor: 'pointer';
+}
+
+.navtxthm4 {
+
+    position: absolute;
+    width: 82px;
+    height: 27px;
+    left: 1380px;
+    top: 33px;
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    cursor: pointer;
+} */ */
+
+/* profile text */
+.protext {
+    position: absolute;
+    width: 141px;
+    height: 45px;
+    left: 660px;
+    top: 143px;
+
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+
+    color: #000000;
+}
+
+/* profile img */
+.profileimg {
+    position: absolute;
+    left: 45%;
+    right: 47.5%;
+    top: 28.06%;
+    bottom: 60.56%;
+
+
+}
+
+/* edit icon */
+.editicon {
+    position: absolute;
+    left: 53%;
+    right: 0%;
+    top: 19.58%;
+    bottom: 0%;
+    cursor: pointer;
+
+}
+
+/* container */
+.profile-container {
+    background: #F8F7F7;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    height: 957px;
+    width: 943px;
+    padding-left: 40px;
+    margin-left: 240px;
+    top: 303px;
+    bottom: 200px;
+    position: absolute;
+
+}
+
+/* container tex */
+.pflname {
+    position: absolute;
+    width: 288px;
+    height: 44.24px;
+    left: 56px;
+    top: 54.47px;
+
+    font-family: 'Be Vietnam';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+
+    color: #000000;
+
+}
+
+.line1 {
+    position: absolute;
+    width: 980px;
+    height: 0px;
+    left: 2px;
+    top: 96px;
+
+    border: 1px solid #939393;
+}
+
+.pflname1 {
+    position: absolute;
+    width: 288px;
+    height: 44.24px;
+    left: 56px;
+    top: 140.47px;
+
+    font-family: 'Be Vietnam';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+
+    color: #000000;
+}
+
+.line2 {
+    position: absolute;
+    width: 980px;
+    height: 0px;
+    left: 2px;
+    top: 196px;
+    border: 1px solid #939393;
+}
+
+.pflname2 {
+    position: absolute;
+    width: 288px;
+    height: 44.24px;
+    left: 56px;
+    top: 230px;
+
+    font-family: 'Be Vietnam';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+
+    color: #000000;
+}
+
+.line3 {
+    position: absolute;
+    width: 980px;
+    height: 0px;
+    left: 2px;
+    top: 296px;
+    border: 1px solid #939393;
+}
+
+.pflname3 {
+    position: absolute;
+    width: 288px;
+    height: 44.24px;
+    left: 56px;
+    top: 320px;
+
+    font-family: 'Be Vietnam';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+
+    color: #000000;
+}
+
+.line4 {
+    position: absolute;
+    width: 980px;
+    height: 0px;
+    left: 2px;
+    top: 396px;
+    border: 1px solid #939393;
+}
+
+
+.pflname4 {
+    position: absolute;
+    width: 288px;
+    height: 44.24px;
+    left: 56px;
+    top: 420px;
+
+    font-family: 'Be Vietnam';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+
+    color: #000000;
+}
+
+.line5 {
+    position: absolute;
+    width: 980px;
+    height: 0px;
+    left: 2px;
+    top: 496px;
+    border: 1px solid #939393;
+}
+
+.pflname5 {
+    position: absolute;
+    width: 288px;
+    height: 44.24px;
+    left: 56px;
+    top: 520px;
+
+    font-family: 'Be Vietnam';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+
+    color: #000000;
+}
+
+.line6 {
+    position: absolute;
+    width: 980px;
+    height: 0px;
+    left: 2px;
+    top: 596px;
+    border: 1px solid #939393;
+}
+
+.pflname5 {
+    position: absolute;
+    width: 288px;
+    height: 44.24px;
+    left: 56px;
+    top: 520px;
+
+    font-family: 'Be Vietnam';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+
+    color: #000000;
+}
+
+.line6 {
+    position: absolute;
+    width: 980px;
+    height: 0px;
+    left: 2px;
+    top: 640px;
+    border: 1px solid #939393;
+}
+
+.pflname6 {
+    position: absolute;
+    width: 288px;
+    height: 44.24px;
+    left: 56px;
+    top: 680px;
+
+    font-family: 'Be Vietnam';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+
+    color: #000000;
+}
+
+.line7 {
+    position: absolute;
+    width: 980px;
+    height: 0px;
+    left: 2px;
+    top: 796px;
+    border: 1px solid #939393;
+}
+
+.pflname7 {
+    position: absolute;
+    width: 288px;
+    height: 44.24px;
+    left: 56px;
+    top: 850px;
+
+    font-family: 'Be Vietnam';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
+
+    color: #000000;
+}

@@ -1,0 +1,109 @@
+.AdminNav {
+    position:fixed;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 82.22%;
+    z-index: 10;
+    background: linear-gradient(180deg, #DC8BA3 7.81%, #FF9691 91.15%);
+}
+
+.gbslogo {
+    position: absolute;
+    left: 7.36%;
+    right: 79.77%;
+    top: 19.03%;
+    bottom: 91.67%;
+
+}
+
+.navs {
+    position: absolute;
+    width: 500px;
+    height: 28px;
+    left: 690px;
+    top: 86px;
+}
+
+.home {
+    position: absolute;
+    left: 50%;
+    right: 50%;
+    top: 11.94%;
+    bottom: 84.31%;
+    cursor: pointer;
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+
+}
+
+.jobs {
+    position: absolute;
+    left: 72%;
+    right: 27.89%;
+    top: 11.94%;
+    bottom: 84.31%;
+    cursor: pointer;
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+
+}
+
+.applications {
+    position: absolute;
+    left: 92%;
+    right: 27.89%;
+    top: 11.94%;
+    bottom: 84.31%;
+    cursor: pointer;
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+
+}
+
+.userProfile {
+    position: absolute;
+    left: 125%;
+    right: 27.89%;
+    top: 11.94%;
+    bottom: 84.31%;
+    width: 150px;
+    cursor: pointer;
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+
+}
+
+.AdminBg {
+    position: absolute;
+    left: 19.55%;
+    right: 16.64%;
+    top: 26.39%;
+    bottom: 14.17%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 10px;
+    width: 868px;
+    height: 428px;
+}

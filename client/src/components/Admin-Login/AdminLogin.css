@@ -1,0 +1,128 @@
+.header{
+    position: absolute;
+width: 1280px;
+height: 128px;
+left: 0px;
+top: 0px;
+}
+.main{
+    position: absolute;
+width: 920px;
+height: 468px;
+left: 209px;
+top: 171px;
+
+/*background: url(social-media-background.jpg);*/
+/* box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25); */
+border-radius: 10px;
+}
+.welcome{
+    position: absolute;
+width: 268px;
+height: 23px;
+left: 313px;
+top: 268px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.please{
+    position: absolute;
+width: 277px;
+height: 24px;
+left: 300px;
+top: 323px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.usrname{
+position: absolute;
+left: 22.5%;
+right: 58.52%;
+top: 48.19%;
+bottom: 46.39%;
+
+background: #F8F7F7;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+border-color: transparent;
+}
+.password{
+    position: absolute;
+left: 22.5%;
+right: 58.52%;
+top: 59.72%;
+bottom: 34.86%;
+border-color: transparent;
+background: #F8F7F7;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+
+.btn{
+    position: absolute;
+left: 28.67%;
+right: 65.62%;
+top: 71.53%;
+bottom: 24.44%;
+border-color: transparent;
+background: #28AB25;
+border-radius: 10px;
+color: #F6FFF5;
+}
+
+.userlog {
+	position: absolute;
+	width: 170px;
+	height: 25px;
+	left: 351px;
+    top: 596px;
+	font-family: 'Arial';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 15px;
+	color: #232121;
+}
+
+.ErrorLogin{
+
+	position: absolute;
+	width: 239px;
+    height: 35px;
+	left: 133px;
+    top: 281px;
+	color: rgb(235, 7, 7);
+}
+
+.signupBtn {
+	position: absolute;
+	width: 80px;
+	height: 30px;
+	left: 380px;
+    top: 587px;
+	border-radius: 10px;
+	color: blue;
+	background-color: transparent;
+	border-color: transparent;
+	font-family: Arial;
+	font-size: 16px;
+	cursor: pointer;
+
+}
+

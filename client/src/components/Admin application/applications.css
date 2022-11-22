@@ -1,0 +1,157 @@
+.job-side-container-application {
+
+    position: absolute;
+    left: 0%;
+    right: 67.5%;
+    top: 17.78%;
+    bottom: 0%;
+    height: 100%;
+    background: rgba(103, 152, 189, 0.6);
+
+    box-shadow: inset 4px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+.Applied-button {
+    position: absolute;
+    width: 168px;
+    height: 38px;
+    left: 566px;
+    top: 162px;
+    border-color: transparent;
+    background: #DAEDFF;
+    border-radius: 10px 0px 0px 10px;
+}
+
+.Shortlisted-button {
+    position: absolute;
+    width: 168px;
+    height: 38px;
+    left: 740px;
+    top: 162px;
+    border-color: transparent;
+    background: #AEF0C0;
+}
+
+.Rejected-button {
+    position: absolute;
+    width: 168px;
+    height: 38px;
+    left: 913px;
+    top: 162px;
+    border-color: transparent;
+    background: #F89C97;
+    border-radius: 0px 10px 10px 0px;
+}
+
+.Generate-button {
+    position: absolute;
+    width: 153px;
+    height: 37px;
+    left: 1113px;
+    top: 162px;
+
+    background: rgba(217, 217, 217, 0.8);
+    border: 1px solid #EF453B;
+}
+
+.appli-container {
+    position: absolute;
+    left: 43.12%;
+    right: 14.3%;
+    top: 38.47%;
+    bottom: 40.69%;
+
+    background: #F8F7F7;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.appli-container1 {
+    position: absolute;
+    left: 43.12%;
+    right: 14.3%;
+    top: 63.75%;
+    bottom: 15.42%;
+
+    background: #F8F7F7;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.appli-container2 {
+    position: absolute;
+    left: 43.12%;
+    right: 14.3%;
+    top: 90.83%;
+    bottom: -11.67%;
+
+    background: #F8F7F7;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.pro {
+
+    position: absolute;
+    left: 2%;
+    right: 48.05%;
+    top: 20%;
+    bottom: 45.42%;
+}
+.sani{
+    position: absolute;
+    left: 17.67%;
+    right: 30.47%;
+    top: 20.75%;
+bottom: 52.92%;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 18px;
+
+color: #184F79;
+}
+.exp{
+    position: absolute;
+    left: 19.06%;
+right: 24.45%;
+top: 48.33%;
+bottom: 42.5%;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+
+color: #184F79;
+}
+.skil{
+    position: absolute;
+    left: 19.06%;
+right: 24.45%;
+top: 70.33%;
+bottom: 42.5%;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+
+color: #184F79;
+}
+.appli-viewbtn{
+    position: absolute;
+    left: 88.91%;
+    right: 1.47%;
+    top: 40.42%;
+    bottom: 37.03%;
+border-color: transparent;
+background: #F5D8B4;
+border-radius: 10px;
+cursor: pointer;
+}

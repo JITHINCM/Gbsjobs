@@ -1,0 +1,202 @@
+.viewjob-box{
+    display: flex;
+    justify-content: center;
+    height: 201px;
+    width: 800px;
+    padding-left: 10px;
+    margin-left: 250px;
+    border-radius: 10px;
+    top: 160.8px;
+    bottom: 200px;
+    background: #F9DAD9;
+
+    position: absolute;
+}
+.viewjob-skils{
+    position: absolute;
+    left: 18.28%;
+    right: 68.83%;
+    top: 50.89%;
+    bottom: 52.36%;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    
+    color: #000000;
+}
+.skilltxt{
+    position: absolute;
+left: 22.27%;
+right: 38.28%;
+top: 55.75%;
+bottom: 46.94%;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+
+color: #000000;
+}
+.viewjob-disc{
+    position: absolute;
+left: 18.2%;
+right: 68.91%;
+top: 60.44%;
+bottom: 41.81%;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 18px;
+
+color: #000000;
+}
+.viewdiscription-txt{
+    position: absolute;
+    left: 22.27%;
+    right: 38.28%;
+    top: 65.75%;
+    bottom: 46.94%;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    
+    color: #000000;
+}
+.viewjob-type{
+    position: absolute;
+    left: 18.2%;
+    right: 68.91%;
+    top: 78.44%;
+    bottom: 41.81%;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+    
+    color: #000000;
+}
+.viewjob-full{
+    position: absolute;
+    left: 22.27%;
+    right: 38.28%;
+    top: 78.50%;
+    bottom: 46.94%;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    
+    color: #000000;
+}
+.viewjob-sal{
+    position: absolute;
+    left: 18.2%;
+    right: 68.91%;
+    top: 86.44%;
+    bottom: 41.81%;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+    
+    color: #000000;
+}
+.viewjob-45{
+    position: absolute;
+    left: 27.27%;
+    right: 38.28%;
+    top: 86.50%;
+    bottom: 46.94%;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    
+    color: #000000;
+}
+.viewjob-last{
+    position: absolute;
+    left: 18.2%;
+    right: 68.91%;
+    top: 93.44%;
+    bottom: 41.81%;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+    
+    color: #000000;
+}
+.viewjob-date{
+    position: absolute;
+    left: 28.27%;
+    right: 38.28%;
+    top: 93.50%;
+    bottom: 46.94%;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    
+    color: #000000;
+}
+.viewjob-contact{
+    position: absolute;
+    left: 58.2%;
+    right: 28.91%;
+    top: 93.44%;
+    bottom: 41.81%;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+    
+    color: #000000;
+}
+.viewjob-no{
+    position: absolute;
+    left: 65.27%;
+    right: 38.28%;
+    top: 93.50%;
+    bottom: 46.94%;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    
+    color: #000000;
+}
+.viewjob-icon{
+    position: absolute;
+left: 1.95%;
+right: 97.26%;
+top: 22.64%;
+bottom: 75.19%;
+cursor: pointer;
+}

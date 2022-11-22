@@ -1,0 +1,312 @@
+
+/* box */
+.box {
+
+    display: flex;
+    justify-content: center;
+    height: 201px;
+    width: 800px;
+    padding-left: 10px;
+    margin-left: 100px;
+    border-radius: 10px;
+    top: 120.8px;
+    bottom: 200px;
+    background: #F9DAD9;
+
+    position: absolute;
+
+}
+
+.txt {
+    position: absolute;
+    left: 9.14%;
+    right: 34.3%;
+    top: 10%;
+    bottom: 69.03%;
+
+    font-family: 'Bungee';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #184F79;
+}
+
+.txt1 {
+    position: absolute;
+    left: 10.94%;
+    right: 44.84%;
+    top: 31.53%;
+    bottom: 55.83%;
+
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #1E11FD;
+
+}
+
+.txt2 {
+    position: absolute;
+    left: 10.94%;
+    right: 44.84%;
+    top: 50%;
+    bottom: 58%;
+
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #000000;
+}
+
+.txt3 {
+
+    position: absolute;
+    left: 10.94%;
+    right: 44.84%;
+    top: 75.83%;
+    bottom: 56.53%;
+
+    font-family: 'Book Antiqua';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #EF453B;
+}
+
+
+
+/* apply button */
+.applybtn {
+    position: absolute;
+    width: 156px;
+    height: 40px;
+    left: 1008px;
+    top: 205px;
+    text-align: center;
+    background: #D9D8F7;
+    border-radius: 10px;
+    font-family: 'Arial';
+    color: #184F79;
+    font-style: normal;
+    border: transparent;
+    cursor: pointer;
+}
+
+/* share button */
+.share {
+    position: absolute;
+    left: 82%;
+    right: 15%;
+    top: 26%;
+    bottom: 65%;
+    border-color: transparent;
+    background-color: white;
+
+
+}
+
+/* skills */
+.skils {
+    position: absolute;
+    left: 9.45%;
+    right: 77.66%;
+    top: 46.39%;
+    bottom: 49.86%;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+
+    color: #000000;
+
+}
+
+.sktxt {
+    position: absolute;
+    left: 13.44%;
+    right: 47.11%;
+    top: 51.25%;
+    bottom: 44.44%;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+
+    color: #000000;
+}
+
+/* discription */
+.desc {
+    position: absolute;
+    left: 9.38%;
+    right: 77.73%;
+    top: 56.94%;
+    bottom: 39.31%;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+
+    color: #000000;
+}
+
+.desctxt {
+    position: absolute;
+    left: 13.44%;
+    right: 26.64%;
+    top: 62.92%;
+    bottom: 22.08%;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+
+    color: #000000;
+
+}
+
+.jobtype {
+    position: absolute;
+    left: 9.45%;
+    right: 77.66%;
+    padding-top: 52%;
+    bottom: 25%;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+
+    color: #000000;
+}
+
+.type {
+    position: absolute;
+    left: 45%;
+    right: 77.66%;
+    top: 97.9%;
+    bottom: 18.33%;
+width:100px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+
+    color: #000000;
+}
+
+.salary {
+    position: absolute;
+    left: 9.45%;
+    right: 71.8%;
+    padding-top: 70%;
+    bottom: 16%;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+
+    color: #000000;
+}
+
+.salary-span {
+
+    position: absolute;
+    left: 50.40%;
+    width: 240px;
+    right: 71.8%;
+    padding-top: 70%;
+    bottom: 0%;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+
+    color: #000000;
+}
+
+.LastDate {
+    position: absolute;
+    left: 9.38%;
+    right: 70.94%;
+    top: 91.67%;
+    bottom: 4.58%;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+
+    color: #000000;
+
+}
+
+.Date-span {
+    position: absolute;
+    left: 54.38%;
+    right: 70.94%;
+    padding-top: 1.67%;
+    bottom: 28.58%;
+    width: 252px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+
+    color: #000000;
+}
+.contact-num{
+    position: absolute;
+left: 57.5%;
+right: 22.81%;
+top: 91.53%;
+bottom: 4.72%;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 18px;
+
+color: #000000;
+}
+.contact-span{
+    position: absolute;
+left: 57.5%;
+right: 22.81%;
+top: 5.53%;
+bottom: 4.72%;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+
+color: #000000;
+}

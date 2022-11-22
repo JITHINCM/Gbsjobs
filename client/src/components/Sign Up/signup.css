@@ -1,0 +1,217 @@
+/* nav */
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+    padding: 0 2rem;
+    background: linear-gradient(180deg, #DC8BA3 7.81%, #FF9691 91.15%);
+}
+
+/* nav icon */
+.jobnav {
+    padding-right: 80%;
+    margin-left: 21px;
+    WIDTH: 72%;
+}
+
+/* signup text */
+.signuptxt {
+    position: absolute;
+    width: 141px;
+    height: 45px;
+    left: 680px;
+    top: 89px;
+
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 39px;
+
+    color: #ffffff;
+}
+/* contauner */
+.containers{
+    position: absolute;
+    left: 16.48%;
+    right: 15%;
+    top: 18%;
+    /* bottom: 6.94%; */
+	height: 600px;
+
+    width: 70%;
+    background: #FFFFFF;
+    box-shadow: inset 0px 0px  8px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+
+}
+/* container inner box */
+.SignupInnerBox {
+	position: absolute;
+	width: 422px;
+	height: 480px;
+	left: 466px;
+	top: 30px;
+
+	background: #FFFFFF;
+	box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 10px;
+}
+/* texts */
+/* Name */
+.signtxt{
+    position: absolute;
+	width: 269px;
+    height: 35px;
+    left: 74px;
+    top: 77px;
+	border-color: transparent;
+	background: #F8F7F7;
+	box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 20px;
+	text-align: center;
+
+}
+/* email */
+.signtxt1{
+	position: absolute;
+	width: 269px;
+    height: 35px;
+    left: 74px;
+    top: 150px;
+	border-color: transparent;
+	background: #F8F7F7;
+	box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 20px;
+	text-align: center;
+
+}
+/* mobile */
+.signtxt4{
+    position: absolute;
+	width: 269px;
+    height: 35px;
+    left: 74px;
+    top: 219px;
+	border-color: transparent;
+	background: #F8F7F7;
+	box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 20px;
+	text-align: center;
+
+}
+/* password */
+.signtxt2{
+	position: absolute;
+	width: 269px;
+    height: 35px;
+    left: 74px;
+    top: 300px;
+	border-color: transparent;
+	background: #F8F7F7;
+	box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 20px;
+	text-align: center;
+
+}
+/* confirmpassword */
+.signtxt3{
+    position: absolute;
+	width: 269px;
+    height: 35px;
+    left: 74px;
+    top: 380px;
+	border-color: transparent;
+	background: #F8F7F7;
+	box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 20px;
+	text-align: center;
+
+}
+
+
+.submitbtn{
+	position: absolute;
+    left: 40%;
+    right: 38%;
+    top: 445px;
+    /* bottom: 6.35%; */
+    height: 25px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 15px;
+color: #F6FFF5;
+background-color: #0C32B8;
+border-color: transparent;
+cursor: pointer;
+border-radius: 10px;
+}
+.text-danger-name{
+	position: absolute;
+    width: 239px;
+    height: 35px;
+    left: 79px;
+    top: 120px;
+    color: red;
+}
+.text-danger-email{
+	position: absolute;
+	width: 239px;
+    height: 35px;
+    left: 79px;
+    top: 192px;
+	color: red;
+}
+.text-danger-Mobile{
+	position: absolute;
+	width: 239px;
+    height: 35px;
+    left: 79px;
+    
+	top: 260px;
+	color: red;
+}
+.text-danger-pass{
+	position: absolute;
+	width: 300px;
+    height: 35px;
+    left: 79px;
+    top: 342px;
+	color: red;
+}
+.text-danger-ConfirmPass{
+	position: absolute;
+	width: 239px;
+    height: 35px;
+    left: 79px;
+    top: 420px;
+	color: red;
+}
+.TxtonSignUpComplete{
+	position: absolute;
+	width: 310px;
+    height: 40px;
+    left: 546px;
+    top: 518px;
+    font-weight: bold;
+	color: rgb(71, 0, 251);
+}
+.Logindbtn{
+	position: absolute;
+	width: 80px;
+	height: 30px;
+	left: 300px;
+	top: 445px;
+	border-radius: 10px;
+	color: blue;
+	background-color: transparent;
+	border-color: transparent;
+	font-family: Arial;
+	font-size: 16px;
+	cursor: pointer;
+
+}

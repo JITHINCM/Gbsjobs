@@ -1,0 +1,159 @@
+/* navtext */
+.navtxtabt {
+
+    position: absolute;
+    width: 82px;
+    height: 27px;
+    left: 920px;
+    top: 33px;
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.navtxtabt1 {
+
+    position: absolute;
+    width: 82px;
+    height: 27px;
+    left: 1020px;
+    top: 33px;
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    cursor: pointer;
+
+}
+
+.navtxtabt2 {
+
+    position: absolute;
+    width: 146px;
+    height: 27px;
+    left: 1120px;
+    top: 33px;
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.navtxtabt3 {
+
+    position: absolute;
+    width: 82px;
+    height: 27px;
+    left: 1280px;
+    top: 33px;
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.navtxtabt4 {
+
+    position: absolute;
+    width: 82px;
+    height: 27px;
+    left: 1380px;
+    top: 33px;
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+/* background image */
+
+.Aboutbg {
+    display: flex;
+    width: 1489px;
+    height: 250px;
+    left: 0px;
+    top: 128px;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+
+/* about the company */
+.abttxt {
+    position: absolute;
+    left: 31.95%;
+    right: 31.88%;
+    top: 24.72%;
+    bottom: 64.31%;
+
+    font-family: 'Bauhaus 93';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 53px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+/* about */
+.abttxt1 {
+
+    position: absolute;
+    left: 8.36%;
+    right: 45%;
+    top: 47.78%;
+    bottom: 46.25%;
+
+    font-family: 'Be Vietnam';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: center;
+
+    color: #232121;
+}
+
+.abttxt2 {
+    position: absolute;
+    width: 614px;
+    height: 274px;
+    left: 42px;
+    top: 80px;
+
+    font-family: 'Calibri';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: justify;
+    text-indent: 45px;
+
+    color: #000000;
+}
+
+/* about side image */
+.Aboutside {
+    position: absolute;
+    width: 555px;
+    height: 291px;
+    left: 907px;
+    top: 368px;
+}

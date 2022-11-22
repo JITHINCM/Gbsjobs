@@ -1,0 +1,386 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.API\\GRAMPRO.Platform.Utility.API.csproj": {}
+  },
+  "projects": {
+    "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.API\\GRAMPRO.Platform.Utility.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.API\\GRAMPRO.Platform.Utility.API.csproj",
+        "projectName": "GRAMPRO.Platform.Utility.API",
+        "projectPath": "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.API\\GRAMPRO.Platform.Utility.API.csproj",
+        "packagesPath": "C:\\Users\\grampro\\.nuget\\packages\\",
+        "outputPath": "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\grampro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.Implementation\\GRAMPRO.Platform.Utility.Implementation.csproj": {
+                "projectPath": "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.Implementation\\GRAMPRO.Platform.Utility.Implementation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.DAL\\GRAMPRO.Platform.Utility.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.DAL\\GRAMPRO.Platform.Utility.DAL.csproj",
+        "projectName": "GRAMPRO.Platform.Utility.DAL",
+        "projectPath": "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.DAL\\GRAMPRO.Platform.Utility.DAL.csproj",
+        "packagesPath": "C:\\Users\\grampro\\.nuget\\packages\\",
+        "outputPath": "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\grampro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.Implementation\\GRAMPRO.Platform.Utility.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.Implementation\\GRAMPRO.Platform.Utility.Implementation.csproj",
+        "projectName": "GRAMPRO.Platform.Utility.Implementation",
+        "projectPath": "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.Implementation\\GRAMPRO.Platform.Utility.Implementation.csproj",
+        "packagesPath": "C:\\Users\\grampro\\.nuget\\packages\\",
+        "outputPath": "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\grampro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.DAL\\GRAMPRO.Platform.Utility.DAL.csproj": {
+                "projectPath": "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.DAL\\GRAMPRO.Platform.Utility.DAL.csproj"
+              },
+              "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.Model\\GRAMPRO.Platform.Utility.Model.csproj": {
+                "projectPath": "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.Model\\GRAMPRO.Platform.Utility.Model.csproj"
+              },
+              "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.Repository\\GRAMPRO.Platform.Utility.Repository.csproj": {
+                "projectPath": "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.Repository\\GRAMPRO.Platform.Utility.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.Model\\GRAMPRO.Platform.Utility.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.Model\\GRAMPRO.Platform.Utility.Model.csproj",
+        "projectName": "GRAMPRO.Platform.Utility.Model",
+        "projectPath": "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.Model\\GRAMPRO.Platform.Utility.Model.csproj",
+        "packagesPath": "C:\\Users\\grampro\\.nuget\\packages\\",
+        "outputPath": "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\grampro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.Repository\\GRAMPRO.Platform.Utility.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.Repository\\GRAMPRO.Platform.Utility.Repository.csproj",
+        "projectName": "GRAMPRO.Platform.Utility.Repository",
+        "projectPath": "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.Repository\\GRAMPRO.Platform.Utility.Repository.csproj",
+        "packagesPath": "C:\\Users\\grampro\\.nuget\\packages\\",
+        "outputPath": "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\grampro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.Model\\GRAMPRO.Platform.Utility.Model.csproj": {
+                "projectPath": "D:\\working copy gbsjobs 16 nov 2022\\Utility\\GRAMPRO.Platform.Utility.Model\\GRAMPRO.Platform.Utility.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
