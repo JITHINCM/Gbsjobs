@@ -11,9 +11,9 @@ import About from './components/About/about'
 import Jobapply from './components/JobApply/jobapply'
 import profile from './components/Profile/profile'; 
 import Edit from './components/Edit Profile/edit'
-import Applied from './components/Applied Jobs/applied'
+import Applied from './components/Applied Jobs details/applied'
 import Contact from './components/Contact/contact'
-import BranchJobList from './components/Cat1Branch/JobList';
+import JobList from './components/JobCategory/JobList'
 
 import AdminLogin from './components/Admin-Login/AdminLogin'
 import AdminHome from './components/Admin-Home/home'
@@ -23,7 +23,8 @@ import AdminEditJob from './components/Admin EditJob/EditJob'
 import AdminApplications from './components/Admin application/applications';
 import AdminViewJob from './components/Admin-Viewjob/adminviewjob'
 import ApplicantProfile from './components/Admin -ApplicacantProfile/applicantprofile'
-// import AdminUserProfile from './components/Admin-Login/AdminLogin'
+import AdminUserProfile from './components/Admin-UserProfile/userProfile'
+import AdminAddCategory from './components/Admin-addCategory/addcategory'
 
 
 
@@ -35,7 +36,7 @@ function App() {
           <Route exact path="/" component={Login} />
           <Route exact path="/Signup" component={Signup} />
           <Route exact path="/homepage" component={Homepage} />
-          <Route exact path="/joblist" component={BranchJobList} />
+          <Route exact path="/joblist" component={JobList} />
           <Route exact path="/details" component={Details} />
           <Route exact path="/apply" component={Apply} />
           <Route exact path="/about" component={About} />
@@ -53,7 +54,9 @@ function App() {
           <Route exact path="/adminapplication" component={AdminApplications} />
           <Route exact path="/adminviewjob" component={AdminViewJob} />
           <Route exact path="/admin_applicantProfile" component={ApplicantProfile} />
-          {/* <Route exact path="/admin_userProfile" component={AdminUserProfile} /> */}
+          <Route exact path="/admin_userProfile" component={AdminUserProfile} />
+          <Route exact path="/admin_addcategory" component={AdminAddCategory} />
+
 
           
 

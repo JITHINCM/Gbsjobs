@@ -1,5 +1,5 @@
 /* text */
-.edittxt {
+.editProfile {
     position: absolute;
     width: 328px;
     height: 38px;
@@ -18,222 +18,274 @@
 }
 
 /* form */
-.editnametxt {
+.EditFullname {
     position: absolute;
-    width: 200px;
-    height: 29px;
-    left: 366px;
-    top: 188px;
+    left: 15.78%;
+    right: 75.62%;
+    top: 30.28%;
+    bottom: 65.69%;
 
     font-family: 'Arial';
     font-style: normal;
-    font-weight: 300;
-    font-size: 16px;
+    font-weight: 400;
+    font-size: 20px;
     line-height: 23px;
+
     color: rgba(0, 0, 0, 0.51);
 
 
 }
 
 
-.editboxs {
+.EditFullnamebox {
     position: absolute;
-    width: 235px;
-    height: 27px;
-    left: 361px;
-    top: 212px;
-
+    left: 23.38%;
+    right: 54.52%;
+    /* top: 31.11%;
+    bottom: 65.14%; */
+    width: 313px;
+    height: 32px;
+    top: 224px;
     background: #F8F7F7;
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
-    border-color: transparent;
 }
 
-.editnametxt1 {
+.EditMobile {
     position: absolute;
-    width: 253px;
-    height: 28px;
-    left: 365px;
-    top: 280px;
+    left: 15.62%;
+    right: 77.34%;
+    top: 40.83%;
+    bottom: 55.28%;
 
     font-family: 'Arial';
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 20px;
     line-height: 23px;
 
     color: rgba(0, 0, 0, 0.51);
 
 }
 
-.editboxs1 {
+.Editmobilebox {
     position: absolute;
-    width: 246px;
-    height: 27px;
-    left: 364px;
-    top: 305px;
-
+    left: 23.38%;
+    right: 54.52%;
+    top: 40.28%;
+    bottom: 55.97%;
+    width: 313px;
+    height: 32px;
     background: #F8F7F7;
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
-    border-color: transparent;
 }
 
-.editnametxt2 {
+.EditEmail {
     position: absolute;
-    width: 200px;
-    height: 29px;
-    left: 708px;
-    top: 187px;
+    left: 55.23%;
+    right: 37.58%;
+    top: 30.56%;
+    bottom: 65.56%;
 
     font-family: 'Arial';
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 20px;
     line-height: 23px;
 
     color: rgba(0, 0, 0, 0.51);
 }
 
-.editboxs2 {
+.Editemailbox {
     position: absolute;
-    width: 241px;
-    height: 27px;
-    left: 707px;
-    top: 212px;
-
+    left: 64.06%;
+    right: 14.84%;
+    top: 30.28%;
+    bottom: 65.97%;
+    width: 313px;
+    height: 32px;
     background: #F8F7F7;
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
-    border-color: transparent;
 }
 
-.editnametxt3 {
+.EditDOB {
     position: absolute;
-    width: 201px;
-    height: 28px;
-    left: 711px;
-    top: 280px;
+    left: 55.23%;
+    right: 37.58%;
+    top: 41.53%;
+    bottom: 54.58%;
 
     font-family: 'Arial';
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 20px;
     line-height: 23px;
 
     color: rgba(0, 0, 0, 0.51);
-
 }
 
-.editboxs3 {
+.EditDOBbox {
     position: absolute;
-    width: 245px;
-    height: 27px;
-    left: 708px;
-    top: 306px;
-
+    left: 64.06%;
+    right: 14.84%;
+    top: 41.25%;
+    bottom: 55%;
+    width: 313px;
+    height: 32px;
     background: #F8F7F7;
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
-    border-color: transparent;
 }
 
-.editnametxt4 {
+.EditSkills {
     position: absolute;
-    width: 75px;
-    height: 27px;
-    left: 713px;
-    top: 366px;
+left: 55.23%;
+right: 38.91%;
+top: 57.92%;
+bottom: 38.33%;
 
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+
+color: rgba(0, 0, 0, 0.5);
+}
+
+.Editskillsbox {
+
+    position: absolute;
+    left: 64.38%;
+    right: 14.84%;
+    top: 57.92%;
+    bottom: 30.42%;
+    
+    background: #F8F7F7;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.EditAddress {
+    position: absolute;
+left: 15.55%;
+right: 50.52%;
+top: 61.67%;
+bottom: 35.14%;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: rgba(0, 0, 0, 0.5);
+
+}
+
+.Editaddressbox {
+    position: absolute;
+    left: 23.77%;
+    right: 54.52%;
+    top: 61.67%;
+    bottom: 24.58%;
+    
+    background: #F8F7F7;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.EditQualification{
+    position: absolute;
+    left: 15.55%;
+    right: 68.2%;
+    top: 81.11%;
+    bottom: 13.19%;
+    
     font-family: 'Arial';
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 20px;
     line-height: 23px;
-
-    color: rgba(0, 0, 0, 0.5);
+    
+    color: rgba(0, 0, 0, 0.51);
 }
 
-.editboxs4 {
-
+.EditQualificationbox{
     position: absolute;
-    width: 238px;
-    height: 67px;
-    left: 706px;
-    top: 394px;
-
-
+    left: 29.42%;
+    right: 54.52%;
+    top: 80.11%;
+    bottom: 15.14%;
+    
     background: #F8F7F7;
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
-    border-color: transparent;
 }
-
-.editnametxt5 {
-    position: absolute;
-    width: 178px;
-    height: 27px;
-    left: 452px;
-    top: 550px;
-
-    font-family: 'Arial';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 23px;
-
-    color: rgba(0, 0, 0, 0.5);
-
-}
-
-.editboxs5 {
-    position: absolute;
-    left: 36%;
-    right: 48.48%;
-    ;
-    top: 68%;
-    bottom: 16.11%;
-
-    background: #F8F7F7;
-    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 10px;
-    border-color: transparent;
-}
-
 /* radio button */
-.gender {
+.Editgender {
     position: absolute;
-    left: 25%;
-    right: 70%;
-    top: 52%;
-    bottom: 38.19%;
+    left: 15.78%;
+    right: 77.19%;
+    top: 51.11%;
+    bottom: 45%;
 
     font-family: 'Arial';
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 20px;
     line-height: 23px;
 
     color: rgba(0, 0, 0, 0.51);
 }
 
-.editradio {
+.EditRadioFemale {
     position: absolute;
     width: 225px;
     height: 46px;
-    left: 394px;
-    top: 450px;
+    left: 338px;
+    top: 388px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
 
     background: #FFFFFF;
     color: rgba(0, 0, 0, 0.5);
 }
 
-.editradio1 {
+.EditRadioMale {
     position: absolute;
-    width: 152px;
+    width: 225px;
     height: 46px;
-    left: 500px;
-    top: 450px;
+    left: 441px;
+    top: 388px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+
+    background: #FFFFFF;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.EditRadioOther {
+    position: absolute;
+    width: 225px;
+    height: 46px;
+    left: 528px;
+    top: 388px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
 
     background: #FFFFFF;
     color: rgba(0, 0, 0, 0.5);
@@ -250,5 +302,43 @@
     background: linear-gradient(180deg, rgba(239, 64, 54, 0.6724) 0%, rgba(255, 195, 119, 0.82) 100%);
     border-radius: 10px;
     color: #F6FFF5;
+    cursor: pointer;
+}
+.upload_text{
+    position: absolute;
+    width: 192px;
+    height: 26px;
+    left: 873px;
+    top: 609px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 23px;
+
+    color: #888484;
+}
+.ChooseFile{
+    position: absolute;
+    width: 300px;
+    height: 26px;
+    left: 1076px;
+    top: 610px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    /* font-size: 15px; */
+    /* line-height: 23px; */
+
+    color: #000000;
+}
+.BacktoProfile-icon {
+    position: absolute;
+    left: 1.95%;
+    right: 97.26%;
+    top: 22.64%;
+    bottom: 75.19%;
     cursor: pointer;
 }

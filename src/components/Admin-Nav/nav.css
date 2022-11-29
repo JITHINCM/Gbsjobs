@@ -1,5 +1,5 @@
 .AdminNav {
-    position:fixed;
+    position: fixed;
     left: 0%;
     right: 0%;
     top: 0%;
@@ -27,7 +27,7 @@
 
 .home {
     position: absolute;
-    left: 50%;
+    left: 41%;
     right: 50%;
     top: 11.94%;
     bottom: 84.31%;
@@ -44,10 +44,11 @@
 
 .jobs {
     position: absolute;
-    left: 72%;
+    left: 59%;
     right: 27.89%;
     top: 11.94%;
     bottom: 84.31%;
+    width: 200px;
     cursor: pointer;
     font-family: 'Bookman Old Style';
     font-style: normal;
@@ -61,24 +62,24 @@
 
 .applications {
     position: absolute;
-    left: 92%;
+    left: 85%;
     right: 27.89%;
     top: 11.94%;
     bottom: 84.31%;
+    width: 200px;
     cursor: pointer;
     font-family: 'Bookman Old Style';
     font-style: normal;
     font-weight: 300;
     font-size: 20px;
     line-height: 23px;
-
     color: #FFFFFF;
 
 }
 
 .userProfile {
     position: absolute;
-    left: 125%;
+    left: 105%;
     right: 27.89%;
     top: 11.94%;
     bottom: 84.31%;
@@ -106,4 +107,20 @@
     border-radius: 10px;
     width: 868px;
     height: 428px;
+}
+
+.NavLogout {
+    position: absolute;
+    left: 140%;
+    right: 27.89%;
+    top: 11.94%;
+    bottom: 84.31%;
+    width: 150px;
+    cursor: pointer;
+    font-family: 'Bookman Old Style';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    cursor: pointer;
 }

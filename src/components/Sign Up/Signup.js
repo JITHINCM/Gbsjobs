@@ -27,6 +27,8 @@ function Signup() {
   const [email, setEmail] = useState('');
   const [pass, setPass] = useState('');
   const [mobile, setMobile] = useState('');
+  const [confirm, setConfirm] = useState('');
+
   const utype = "User";
   const [showSuccess,setShowSuccess]=useState(false);
 
@@ -44,6 +46,11 @@ function Signup() {
   const handleMobileChange = (value) => {
     setMobile(value);
   }
+  const handleConfirmChange = (value) => {
+    setConfirm(value);
+  }
+  const password = useRef({});
+  password.current = watch("password", "");
 
   const BtnLog = () => { 
     
@@ -57,6 +64,7 @@ function Signup() {
 
   const handleSave = () => {
 
+
     const data = {
       Name: name,
       Email: email,
@@ -67,6 +75,13 @@ function Signup() {
       // IsActive: 1
     };
 
+    if(data.Name===""||data.Email===""||data.Password===""||data.Mobile===""||confirm==="")
+    {
+      alert("Enter all fields")
+    }
+    else{
+
+   
     const url = 'https://localhost:5001/GBSJobs/v1/savedata';
     axios.post(url, data).then((response) => {
       console.log(response.data);
@@ -82,14 +97,11 @@ function Signup() {
       //   alert('data saved');
       //   else
     })
-
-
-
+  }
   }
 
  
-  const password = useRef({});
-  password.current = watch("password", "");
+  
 
   const onSubmit = async () => {
     // alert(JSON.stringify(data));
@@ -177,8 +189,8 @@ function Signup() {
                   <input className='signtxt3' placeholder='Confirm password' type="password"
                     {...register("ConfirmPassword", {
                       required: "*confirm password is required", validate: value =>
-                        value === password.current || ""
-                    })}
+                        value === password.current || "Passwords not match"
+                    })} onChange={(e) => handleConfirmChange(e.target.value)}
                   // onChange={(e) => handleConfirmPasswordChange(e.target.value)}
                   />
 

@@ -8,7 +8,7 @@
     font-family: 'Arial';
     font-style: normal;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 17px;
     line-height: 23px;
     color: rgba(0, 0, 0, 0.55);
 }
@@ -18,8 +18,7 @@
     left: 15.34%;
     right: 65.66%;
     bottom: 70.72%;
-    padding-top: 30px;
-
+    height: 41px;
     background: rgba(217, 217, 217, 0.72);
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 20px;
@@ -31,12 +30,10 @@
     left: 8%;
     right: 83.52%;
     top: 37.58%;
-    bottom: 72.22%;
-
     font-family: 'Arial';
     font-style: normal;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 17px;
     line-height: 23px;
     /* identical to box height */
 
@@ -48,10 +45,8 @@
     position: absolute;
     left: 15.34%;
     right: 65.66%;
-
+    height: 41px;
     bottom: 57.72%;
-    padding-top: 30px;
-
     background: rgba(217, 217, 217, 0.72);
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 20px;
@@ -69,7 +64,7 @@
     font-family: 'Arial';
     font-style: normal;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 17px;
     line-height: 23px;
 
 
@@ -81,10 +76,8 @@
     position: absolute;
     left: 15.34%;
     right: 65.66%;
-
     bottom: 44.72%;
-    padding-top: 30px;
-
+    height: 41px;
     background: rgba(217, 217, 217, 0.72);
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 20px;
@@ -98,11 +91,10 @@
     right: 83.52%;
     top: 63.58%;
     bottom: 72.22%;
-
     font-family: 'Arial';
     font-style: normal;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 17px;
     line-height: 23px;
     color: rgba(0, 0, 0, 0.55);
 }
@@ -111,9 +103,8 @@
     position: absolute;
     left: 15.34%;
     right: 65.66%;
-    bottom: 25.72%;
-    padding-top: 85px;
-
+    bottom: 31.72%;
+    height: 41px;
     background: rgba(217, 217, 217, 0.72);
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 20px;
@@ -131,7 +122,7 @@
     font-family: 'Arial';
     font-style: normal;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 17px;
     line-height: 23px;
     color: rgba(0, 0, 0, 0.55);
 }
@@ -141,8 +132,7 @@
     left: 15.34%;
     right: 65.66%;
     bottom: 14.72%;
-    padding-top: 30px;
-
+    height: 41px;
     background: rgba(217, 217, 217, 0.72);
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 20px;
@@ -155,11 +145,10 @@
     right: 83.52%;
     top: 24.58%;
     bottom: 72.22%;
-
     font-family: 'Arial';
     font-style: normal;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 17px;
     line-height: 23px;
     color: rgba(0, 0, 0, 0.55);
 }
@@ -169,8 +158,8 @@
     left: 63.34%;
     right: 14.66%;
     bottom: 64.72%;
-    padding-top: 85px;
-
+    height: 41px;
+    bottom: 70.72%;
     background: rgba(217, 217, 217, 0.72);
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 20px;
@@ -182,13 +171,13 @@
     position: absolute;
     left: 54.35%;
     right: 83.52%;
-    top: 42.58%;
+    top: 38.58%;
     bottom: 72.22%;
 
     font-family: 'Arial';
     font-style: normal;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 17px;
     line-height: 23px;
     color: rgba(0, 0, 0, 0.55);
 }
@@ -197,9 +186,8 @@
     position: absolute;
     left: 63.34%;
     right: 14.66%;
-    bottom: 51.72%;
-    padding-top: 35px;
-
+    bottom: 56.72%;
+    height: 41px;
     background: rgba(217, 217, 217, 0.72);
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 20px;
@@ -211,13 +199,12 @@
     position: absolute;
     left: 54.35%;
     right: 83.52%;
-    top: 55.58%;
-    bottom: 72.22%;
-
+    top: 53.58%;
+    bottom: 41.72%;
     font-family: 'Arial';
     font-style: normal;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 17px;
     line-height: 23px;
     color: rgba(0, 0, 0, 0.55);
 }
@@ -226,9 +213,8 @@
     position: absolute;
     left: 63.34%;
     right: 14.66%;
-    bottom: 39.72%;
-    padding-top: 35px;
-
+    bottom: 41.72%;
+    height: 41px;
     background: rgba(217, 217, 217, 0.72);
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 20px;
@@ -246,7 +232,7 @@
     font-family: 'Arial';
     font-style: normal;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 17px;
     line-height: 23px;
     color: rgba(0, 0, 0, 0.55);
 }
@@ -256,8 +242,7 @@
     left: 63.34%;
     right: 14.66%;
     bottom: 27.72%;
-    padding-top: 35px;
-
+    height: 41px;
     background: rgba(217, 217, 217, 0.72);
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 20px;
@@ -275,7 +260,7 @@
     font-family: 'Arial';
     font-style: normal;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 17px;
     line-height: 23px;
     color: rgba(0, 0, 0, 0.55);
 }
@@ -285,8 +270,7 @@
     left: 63.34%;
     right: 14.66%;
     bottom: 15.72%;
-    padding-top: 35px;
-
+    height: 41px;
     background: rgba(217, 217, 217, 0.72);
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 20px;
@@ -299,9 +283,16 @@
     right: 50.19%;
     top: 90.44%;
     bottom: 5%;
-
+cursor: pointer;
     background: rgba(250, 125, 118, 0.82);
     border-radius: 10px;
     border-color: transparent;
+}
+.BacktoAdminJob-icon {
+    position: absolute;
+    left: 1.95%;
+    right: 97.26%;
+    top: 22.64%;
+    bottom: 75.19%;
     cursor: pointer;
 }

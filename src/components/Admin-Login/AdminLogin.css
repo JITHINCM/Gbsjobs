@@ -100,13 +100,13 @@ color: #F6FFF5;
 	color: #232121;
 }
 
-.ErrorLogin{
+.AdminErrorLogin{
 
 	position: absolute;
 	width: 239px;
     height: 35px;
-	left: 133px;
-    top: 281px;
+	left: 348px;
+    top: 492px;
 	color: rgb(235, 7, 7);
 }
 

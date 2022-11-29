@@ -1,114 +1,19 @@
-/* nav */
-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    height: 80px;
-    padding: 0 2rem;
-    background: linear-gradient(180deg, #DC8BA3 7.81%, #FF9691 91.15%);
-}
-
-/* nav icon
-.job1 {
-    padding-right: 80%;
-    margin-left: 27px;
-    WIDTH: 61%;
-}
-
-/* navtext */
-/* .navtxthm {
-
-    position: absolute;
-    width: 82px;
-    height: 27px;
-    left: 920px;
-    top: 33px;
-    font-family: 'Bookman Old Style';
-    font-style: normal;
-    font-weight: 300;
-    font-size: 20px;
-    line-height: 23px;
-    color: #FFFFFF;
-    cursor: pointer;
-
-}
-
-.navtxthm1 {
-
-    position: absolute;
-    width: 82px;
-    height: 27px;
-    left: 1020px;
-    top: 33px;
-    font-family: 'Bookman Old Style';
-    font-style: normal;
-    font-weight: 300;
-    font-size: 20px;
-    line-height: 23px;
-    color: #FFFFFF;
-    cursor: pointer;
-
-}
-
-.navtxthm2 {
-
-    position: absolute;
-    width: 141px;
-    height: 27px;
-    left: 1120px;
-    top: 33px;
-    font-family: 'Bookman Old Style';
-    font-style: normal;
-    font-weight: 300;
-    font-size: 20px;
-    line-height: 23px;
-    color: #FFFFFF;
-    cursor: pointer;
-}
-
-.navtxthm3 {
-
-    position: absolute;
-    width: 82px;
-    height: 27px;
-    left: 1280px;
-    top: 33px;
-    font-family: 'Bookman Old Style';
-    font-style: normal;
-    font-weight: 300;
-    font-size: 20px;
-    line-height: 23px;
-    color: #FFFFFF;
-    cursor: 'pointer';
-}
-
-.navtxthm4 {
-
-    position: absolute;
-    width: 82px;
-    height: 27px;
-    left: 1380px;
-    top: 33px;
-    font-family: 'Bookman Old Style';
-    font-style: normal;
-    font-weight: 300;
-    font-size: 20px;
-    line-height: 23px;
-    color: #FFFFFF;
-    cursor: pointer;
-} */ */
 
 /* profile text */
-.protext {
+.profile-div{
     position: absolute;
     width: 141px;
     height: 45px;
-    left: 660px;
-    top: 143px;
+    left: 687px;
+    padding-top: 26px;
+}
+
+.profile_h1{
+   
 
     font-family: 'Calibri';
     font-style: normal;
-    font-weight: 400;
+    /* font-weight: 400; */
     font-size: 32px;
     line-height: 39px;
 
@@ -118,7 +23,7 @@ header {
 /* profile img */
 .profileimg {
     position: absolute;
-    left: 45%;
+       left: 46.7%;
     right: 47.5%;
     top: 28.06%;
     bottom: 60.56%;
@@ -131,7 +36,7 @@ header {
     position: absolute;
     left: 53%;
     right: 0%;
-    top: 19.58%;
+    top: 31.58%;
     bottom: 0%;
     cursor: pointer;
 
@@ -354,7 +259,7 @@ header {
     width: 980px;
     height: 0px;
     left: 2px;
-    top: 796px;
+    top: 769px;
     border: 1px solid #939393;
 }
 
@@ -363,7 +268,7 @@ header {
     width: 288px;
     height: 44.24px;
     left: 56px;
-    top: 850px;
+    top: 816px;
 
     font-family: 'Be Vietnam';
     font-style: normal;
@@ -372,4 +277,27 @@ header {
     line-height: 35px;
 
     color: #000000;
+}
+.line8
+{
+    position: absolute;
+    width: 980px;
+    height: 0px;
+    left: 2px;
+    top: 906px;
+
+    border: 1px solid #939393;
+}
+.pflname8{
+    position: absolute;
+    width: 288px;
+    height: 44.24px;
+    left: 56px;
+    top: 932px;
+
+    font-family: 'Be Vietnam';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 35px;
 }

@@ -310,3 +310,11 @@ line-height: 18px;
 
 color: #000000;
 }
+.BacktoJobList-icon {
+    position: absolute;
+    left: 1.95%;
+    right: 97.26%;
+    top: 22.64%;
+    bottom: 75.19%;
+    cursor: pointer;
+}

@@ -4,15 +4,18 @@ import './details.css'
 import Share from '../img/share.png'
 import ClientNav from "../Client-Nav/ClientNav";
 import axios from 'axios';
-
+import { AiOutlineCaretLeft } from "react-icons/ai";
 
 
 function Details(props) {
 
-  const Jobid = props.location.state || {};
-
+  // const Jobid = props.location.state || {};
+  const Jobid=localStorage.getItem('Job_Id');
   const [state, setState] = useState([]);
 
+  const iconBtn = () => {
+    window.location.replace("http://localhost:3000/?#/joblist");
+  };
   console.log(Jobid);
 
   const btnApply = () => {
@@ -21,7 +24,7 @@ function Details(props) {
   };
 
   const FetchData = () => {
-  const url = 'https://localhost:5001/newcontroller/getjobdetails/filter?';
+  const url = 'https://localhost:5001/GBSJobs/v2/getjobdetails?';
 
   axios.post(url, null,
     {
@@ -44,14 +47,14 @@ function Details(props) {
   return (
     <div>
       <ClientNav />
-
+      <div className='BacktoJobList-icon' id='iconBtn' onClick={iconBtn}><AiOutlineCaretLeft /></div>
 {state.map((obj) => {
   return(
     <div>
     <div className='box'>
         <div className='txt'>{obj.JobName}</div>
-        <div className='txt1'>Branch Banking </div>
-        <div className='txt2'>Required Experience : {obj.Experience}years <br />ESAF Small Finance Bank</div>
+        <div className='txt1'>Category Id: {obj.Category_Id} </div>
+        <div className='txt2'>Required Experience : {obj.Experience} years <br />ESAF Small Finance Bank</div>
         <div className='txt3'>{obj.Openings} Openings </div>
 
       </div>

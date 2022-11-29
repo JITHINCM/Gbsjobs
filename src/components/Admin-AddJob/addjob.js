@@ -1,10 +1,9 @@
-import React, { Fragment, useState } from "react";
+import React, { Fragment, useState, useEffect } from "react";
 import './addjob.css'
 import Nav from '../Admin-Nav/nav'
 import axios from 'axios';
 import { useForm } from "react-hook-form";
-
-
+import { AiOutlineCaretLeft } from "react-icons/ai";
 
 function AddJob() {
 
@@ -12,6 +11,10 @@ function AddJob() {
     reset,
   } = useForm();
 
+  const iconBtn = () => {
+    window.location.replace("http://localhost:3000/#/adminjob");
+  };
+  
   const [jobname, setJobName] = useState('');
   const [jobcat, setCat] = useState('');
   const [openings, setOpenings] = useState('');
@@ -22,6 +25,8 @@ function AddJob() {
   const [salary, setSalary] = useState('');
   const [contact, setContact] = useState('');
   const [lastDate, setLastDate] = useState('');
+  const [state, setState] = useState([]);
+
   // const [showSuccess,setShowSuccess]=useState(false);
 
   const handleJobName = (value) => {
@@ -55,14 +60,24 @@ function AddJob() {
     setLastDate(value);
   }
 
+  const fetchData = () => {
+    const url = 'https://localhost:5001/GBSJobs/v1/Category';
+    axios.get(url).then((response) => {
+      setState(response.data.Data)
 
+    })
+  };
+  useEffect(() => {
+    fetchData();
+  }, []);
 
   const handleSave = () => {
 
     const data = {
       JobName: jobname,
       Openings: openings,
-      Category_Id: jobcat,
+      // CategoryName: jobcat,
+      Category_Id:parseInt(jobcat),//parseInt(localStorage.getItem('Category_Id')),
       Description: description,
       Experience: experience,
       Skills: skills,
@@ -79,17 +94,25 @@ function AddJob() {
       if (result.data.Success === true) {
         // setShowSuccess(true)
         window.location.replace("http://localhost:3000/#/adminjob");
-        reset();
 
+        reset();
       }
     })
+    
+    const url2 = 'https://localhost:5001/GBSJobs/v2/getopeningscount';
+  axios.get(url2).then((response) => {
+    console.log(data);
+    console.log(response.data); 
+
+  })
+
   }
 
   return (
     <Fragment>
       <div>
         <Nav />
-
+        <div className='BacktoAdminJob-icon' id='iconBtn' onClick={iconBtn}><AiOutlineCaretLeft /></div>
         <div>
           <div>
             <div className='jobfieldName'>Job :</div>
@@ -100,10 +123,25 @@ function AddJob() {
           </div>
 
           <div>
-            <div className='jobfieldCategory'  >Category Id:</div>
-            <div>
-              <input className='jobfieldCategorybox' type='number' onChange={(e) => handleJobCat(e.target.value)} ></input>
-            </div>
+            <div className='jobfieldCategory'  >Category Name:</div>
+            
+            
+            <select className='jobfieldCategorybox' onChange={(e) => handleJobCat(e.target.value)}>
+            <option   value="" >select</option>
+
+            {state.map((obj)=>{ 
+              
+              return(
+          
+            <option   value={obj.Category_Id} >{obj.CategoryName} </option>
+             
+              )
+              
+            })}
+              </select>
+
+                {/*  <input className='jobfieldCategorybox' type='number' onChange={(e) => handleJobCat(e.target.value)} ></input> */}
+
           </div>
 
           <div>
@@ -127,6 +165,7 @@ function AddJob() {
             <input className='jobfieldTypebox' onChange={(e) => handleType(e.target.value)}></input>
           </div> */}
             <select className='jobfieldTypebox' onChange={(e) => handleType(e.target.value)}>
+            <option value='' >Select</option>
             <option value='Full Time' >Full Time</option>
                 <option value='Part Time'>Part Time</option>
                 <option value='Work from Home'>Work from Home</option>

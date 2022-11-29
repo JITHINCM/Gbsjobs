@@ -1,73 +1,160 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react';
 import './applications.css'
-import Nav from '../Admin-Nav/nav'
-import Profile from '../img/profile.png'
+import AdminNav from '../Admin-Nav/nav'
+import axios from 'axios';
+
 function Applications() {
-  const ViewBtns = () => {
+
+  const [state, setState] = useState([]);
+  const [state2, setState2] = useState([]);
+
+  const [jobcat, setCat] = useState('All');
+  const [status, setStatus] = useState('AllStatus');
+
+
+  const handleJobCat = (value) => {
+    setCat(value);
+  }
+  const handleStatus = (value) => {
+    setStatus(value);
+  }
+
+  const fetchData = () => {
+    const url = 'https://localhost:5001/GBSJobs/v1/Jobapplication';
+    axios.get(url).then((response) => {
+
+      localStorage.setItem('Category_Id', response.data.Data[0].Category_Id);
+      setState(response.data.Data)
+
+    })
+
+    const url2 = 'https://localhost:5001/GBSJobs/v1/Category';
+    axios.get(url2).then((resp) => {
+      setState2(resp.data.Data)
+      // setState3(resp.data.Data)
+      // localStorage.setItem('{Category_names}',resp.data.Data)
+    })
+
+  };
+
+  useEffect(() => {
+    fetchData();
+  }, []);
+
+  const Viewdetailsbtn = (p1, p2) => {
+    // console.log(p1,p2)
+    localStorage.setItem('View-Appli-Id', p1)
+    localStorage.setItem('View-Job-Id', p2)
+
     window.location.replace("http://localhost:3000/#/admin_applicantProfile");
   };
 
+  // https://localhost:5001/GBSJobs/v1/Jobapplication
+
   return (
     <div>
-      <Nav />
-
-      <div className='job-side-container-application'>
-        <div className='catogeries'>Categories</div>
-        <div className='catogeries-line'></div>
-
-        <div className='Branch-banking'>Branch banking</div>
-        <div className='catogeries-line1'></div>
-
-        <div className='Digital-marketing'>Digital marketing</div>
-        <div className='catogeries-line2'></div>
-
-        <div className='IT'>I T</div>
-        <div className='catogeries-line3'></div>
-
-        <div className='Micro-banking'>Micro banking</div>
-        <div className='catogeries-line4'></div>
-      </div>
+      <AdminNav />
       <div>
-        <button className='Applied-button'>Applied</button>
-        <button className='Shortlisted-button'>Shortlisted</button>
-        <button className='Rejected-button'>Rejected</button>
-        <button className='Generate-button'>Generate Report</button>
+        <select className='Dropdown-Category-2' onChange={(e) => handleJobCat(e.target.value)} >
+          <option value='All' >All category</option>
+          {state2.map((obj) => {
+
+            return (
+              <option value={obj.Category_Id} >{obj.Category_Id}. {obj.CategoryName}</option>
+
+            )
+
+          })}
+          {/* <option value='Digital Marketing' >Digital Marketing</option>
+          <option value='IT'>IT</option>
+          <option value='Micro Banking'>Micro Banking</option> */}
+        </select>
       </div>
 
-      <div className='appli-container'>
-        <div>
-          <img className='pro' src={Profile} alt='' />
-          <div className='sani'>Sanishma K S</div>
-          <div className='exp'>Experience: Fresher</div>
-          <div className='skil'>Skills: .............</div>
-        </div>
-        <div>
-          <button className='appli-viewbtn' id='ViewBtns' onClick={ViewBtns}>View</button>
-        </div>
+      <div>
+        <select className='Dropdown-Status' onChange={(e) => handleStatus(e.target.value)}>
+          <option value='AllStatus' >All Status</option>
+          {/* <option value='ALlStatus'>All</option> */}
+          <option value='Applied' >Applied</option>
+          <option value='Shortlisted' >Shortlisted</option>
+          <option value='Rejected'>Rejected</option>
+        </select>
       </div>
-      <div className='appli-container1'>
-        <div>
-          <img className='pro' src={Profile} alt='' />
-          <div className='sani'>Sanishma K S</div>
-          <div className='exp'>Experience: Fresher</div>
-          <div className='skil'>Skills: .............</div>
-        </div>
-        <div>
-          <button className='appli-viewbtn'>View</button>
-        </div>
+
+      <div>
+        <button className='Generate-Btn'>Generate Report</button>
       </div>
-      <div className='appli-container2'>
-        <div>
-          <img className='pro' src={Profile} alt='' />
-          <div className='sani'>Sanishma K S</div>
-          <div className='exp'>Experience: Fresher</div>
-          <div className='skil'>Skills: .............</div>
-        </div>
-        <div>
-          <button className='appli-viewbtn'>View</button>
-        </div>
-        </div>
-      
+
+      <div className='Table-Apply'>
+        <table className='table' >
+          <thead >
+            <tr className='tr' >
+              <th>User Name</th>
+              <th>Job</th>
+              <th>Category</th>
+              <th>Details</th>
+              <th>status</th>
+            </tr>
+          </thead>
+
+          {jobcat === 'All' ?
+
+            state.map((obj) => {
+              return (
+                <tbody>
+                  <tr className='tblrow'>
+                    <td>{obj.FullName}</td>
+                    <td>{obj.JobName}</td>
+                    <td>{obj.Category_Id}</td>
+                    <td><div className='viewbtn-div' ><button className='tbl-viewbtn' id='Viewdetailsbtn' onClick={() => Viewdetailsbtn(obj.Application_Id, obj.Job_Id)}>View</button></div></td>
+                    <td><div className='tbl-Applied '><i style={{ color: obj.Status === "Shortlisted" ? "green" : obj.Status === "Rejected" ? "red" : "blue" }}>{obj.Status}</i></div></td>
+
+                  </tr>
+
+
+                </tbody>
+              )
+            })
+            : status === 'AllStatus' ?
+              state.filter(obj => obj.Category_Id === parseInt(jobcat)).map((obj) => {
+                return (
+                  <tbody>
+                    <tr className='tblrow'>
+                      <td>{obj.FullName}</td>
+                      <td>{obj.JobName}</td>
+                      <td>{obj.Category_Id}</td>
+
+                      <td><div className='viewbtn-div' ><button className='tbl-viewbtn' id='Viewdetailsbtn' onClick={() => Viewdetailsbtn(obj.Application_Id, obj.Job_Id)}>View</button></div></td>
+                      <td><div className='tbl-Applied '><i style={{ color: obj.Status === "Shortlisted" ? "green" : obj.Status === "Rejected" ? "red" : "blue" }}>{obj.Status}</i></div></td>
+
+                    </tr>
+
+
+                  </tbody>
+                )
+              })
+              : state.filter(obj => (obj.Category_Id === parseInt(jobcat)) && (obj.Status === status)).map((obj) => {
+                return (
+                  <tbody>
+                    <tr className='tblrow'>
+                      <td>{obj.FullName}</td>
+                      <td>{obj.JobName}</td>
+                      <td>{obj.Category_Id}</td>
+
+                      <td><div className='viewbtn-div' ><button className='tbl-viewbtn' id='Viewdetailsbtn' onClick={() => Viewdetailsbtn(obj.Application_Id, obj.Job_Id)}>View</button></div></td>
+                      <td><div className='tbl-Applied '><i style={{ color: obj.Status === "Shortlisted" ? "green" : obj.Status === "Rejected" ? "red" : "blue" }}>{obj.Status}</i></div></td>
+
+                    </tr>
+
+
+                  </tbody>
+                )
+              })
+
+          }
+
+        </table>
+      </div>
     </div>
   )
 }

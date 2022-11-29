@@ -1,104 +1,16 @@
-/* nav */
-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    height: 80px;
-    padding: 0 2rem;
-    background: linear-gradient(180deg, #DC8BA3 7.81%, #FF9691 91.15%);
-}
 
-/* nav icon */
-.job5 {
-    padding-right: 80%;
-    margin-left: 27px;
-    WIDTH: 61%;
-}
-
-/* nav text */
-.navtxtjob {
-
-    position: absolute;
-    width: 82px;
-    height: 27px;
-    left: 920px;
-    top: 33px;
-    font-family: 'Bookman Old Style';
-    font-style: normal;
-    font-weight: 300;
-    font-size: 20px;
-    line-height: 23px;
-    color: #FFFFFF;
-    cursor: pointer;
-
-}
-
-.navtxtjob1 {
-
-    position: absolute;
-    width: 82px;
-    height: 27px;
-    left: 1020px;
-    top: 33px;
-    font-family: 'Bookman Old Style';
-    font-style: normal;
-    font-weight: 300;
-    font-size: 20px;
-    line-height: 23px;
-    color: #FFFFFF;
-    cursor: pointer;
-
-}
-
-.navtxtjob2 {
-
-    position: absolute;
-    width: 146px;
-    height: 27px;
-    left: 1120px;
-    top: 33px;
-    font-family: 'Bookman Old Style';
-    font-style: normal;
-    font-weight: 300;
-    font-size: 20px;
-    line-height: 23px;
-    color: #FFFFFF;
-    cursor: pointer;
-}
-
-.navtxtjob3 {
-
-    position: absolute;
-    width: 82px;
-    height: 27px;
-    left: 1280px;
-    top: 33px;
-    font-family: 'Bookman Old Style';
-    font-style: normal;
-    font-weight: 300;
-    font-size: 20px;
-    line-height: 23px;
-    color: #FFFFFF;
-    cursor: pointer;
-}
-
-.navtxtjob4 {
-
-    position: absolute;
-    width: 82px;
-    height: 27px;
-    left: 1380px;
-    top: 33px;
-    font-family: 'Bookman Old Style';
-    font-style: normal;
-    font-weight: 300;
-    font-size: 20px;
-    line-height: 23px;
-    color: #FFFFFF;
-    cursor: pointer;
-}
 
 /* applied jobs */
+.topgap
+{
+    margin-top: 6%;
+
+}
+.JobList_container{
+    padding-top: 74px;
+    padding-left: 378px;
+}
+
 .jobtext {
     position: absolute;
     left: 43.2%;
@@ -117,42 +29,33 @@ header {
 
 /* container */
 .job-container {
-    position: absolute;
-    left: 27.34%;
-    right: 30.08%;
-    top: 23.33%;
-    bottom: 55.83%;
-
+    width: 688px;
+    height: 140px;
+    padding-left: 50px;
     background: #F8F7F7;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
 }
 
 .job-text {
-    position: absolute;
-    width: 291px;
-    left: 21.97%;
-    right: 45.94%;
-    top: 6.58%;
-    bottom: 67.08%;
-
+    width: 226px;
+    height: 42px;
+    padding-top: 10px;
+    padding-left: 190px;
     font-family: 'Arial';
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
-    line-height: 23px;
+    font-size: 16px;
+    line-height: 42px;
     text-align: center;
-
     color: #184F79;
+    border-radius: 10px;
 }
 
 .jobinlinetxt {
     position: absolute;
-    left: 3%;
-    right: 46.64%;
-    top: 30%;
-    bottom: 54.03%;
-
+    margin-top: 0%;
+    margin-left: 3%;
     font-family: 'Bookman Old Style';
     font-style: normal;
     font-weight: 300;
@@ -165,22 +68,28 @@ header {
 .jobinlinetxtin {
 
     color: #000000;
-    margin-top: 13%;
+    margin-top: 7%;
     margin-left: 3%;
 }
-
-.aapbtn {
-    position: absolute;
-    left: 56.72%;
-    right: 31.09%;
-    top: 30.22%;
-    bottom: 57.22%;
-    height: 5%;
-    background: #DAEDFF;
+.ButtonStatus
+{
+     padding-left: 510px;
+    margin-top: -86px;
+}
+.appbtn {
+    width: 156px;
+    height: 40px;
+    
+    text-align: center;
+    background: #CBE6FF;
     border-radius: 10px;
-    border-color: transparent;
+    font-family: 'Arial';
+    color: #184F79;
+    font-style: normal;
+    border: transparent;
     cursor: pointer;
 }
+
 
 .job1-container {
     position: absolute;

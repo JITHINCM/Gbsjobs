@@ -1,0 +1,228 @@
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.deps.json
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.AssemblyReference.cache
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfoInputs.cache
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfo.cs
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.CoreCompileInputs.cache
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.deps.json
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.AssemblyReference.cache
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfoInputs.cache
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfo.cs
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.CoreCompileInputs.cache
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+C:\Users\grampro\Downloads\Utility\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.deps.json
+C:\Users\grampro\Downloads\Utility\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+C:\Users\grampro\Downloads\Utility\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+C:\Users\grampro\Downloads\Utility\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.AssemblyReference.cache
+C:\Users\grampro\Downloads\Utility\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grampro\Downloads\Utility\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfoInputs.cache
+C:\Users\grampro\Downloads\Utility\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfo.cs
+C:\Users\grampro\Downloads\Utility\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.CoreCompileInputs.cache
+C:\Users\grampro\Downloads\Utility\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+C:\Users\grampro\Downloads\Utility\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\refint\GRAMPRO.Platform.Utility.DAL.dll
+C:\Users\grampro\Downloads\Utility\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+C:\Users\grampro\Downloads\Utility\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+C:\Users\grampro\Downloads\Utilitywith modfctn\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.deps.json
+C:\Users\grampro\Downloads\Utilitywith modfctn\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+C:\Users\grampro\Downloads\Utilitywith modfctn\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+C:\Users\grampro\Downloads\Utilitywith modfctn\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.AssemblyReference.cache
+C:\Users\grampro\Downloads\Utilitywith modfctn\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grampro\Downloads\Utilitywith modfctn\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfoInputs.cache
+C:\Users\grampro\Downloads\Utilitywith modfctn\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfo.cs
+C:\Users\grampro\Downloads\Utilitywith modfctn\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.CoreCompileInputs.cache
+C:\Users\grampro\Downloads\Utilitywith modfctn\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+C:\Users\grampro\Downloads\Utilitywith modfctn\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\refint\GRAMPRO.Platform.Utility.DAL.dll
+C:\Users\grampro\Downloads\Utilitywith modfctn\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+C:\Users\grampro\Downloads\Utilitywith modfctn\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+C:\working copy gbsjobs\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.deps.json
+C:\working copy gbsjobs\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+C:\working copy gbsjobs\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+C:\working copy gbsjobs\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.AssemblyReference.cache
+C:\working copy gbsjobs\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\working copy gbsjobs\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfoInputs.cache
+C:\working copy gbsjobs\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfo.cs
+C:\working copy gbsjobs\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.CoreCompileInputs.cache
+C:\working copy gbsjobs\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+C:\working copy gbsjobs\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\refint\GRAMPRO.Platform.Utility.DAL.dll
+C:\working copy gbsjobs\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+C:\working copy gbsjobs\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+C:\Users\grampro\Desktop\oct26GBS\working copy gbsjobs 29oct 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.deps.json
+C:\Users\grampro\Desktop\oct26GBS\working copy gbsjobs 29oct 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+C:\Users\grampro\Desktop\oct26GBS\working copy gbsjobs 29oct 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+C:\Users\grampro\Desktop\oct26GBS\working copy gbsjobs 29oct 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.AssemblyReference.cache
+C:\Users\grampro\Desktop\oct26GBS\working copy gbsjobs 29oct 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grampro\Desktop\oct26GBS\working copy gbsjobs 29oct 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfoInputs.cache
+C:\Users\grampro\Desktop\oct26GBS\working copy gbsjobs 29oct 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfo.cs
+C:\Users\grampro\Desktop\oct26GBS\working copy gbsjobs 29oct 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.CoreCompileInputs.cache
+C:\Users\grampro\Desktop\oct26GBS\working copy gbsjobs 29oct 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+C:\Users\grampro\Desktop\oct26GBS\working copy gbsjobs 29oct 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\refint\GRAMPRO.Platform.Utility.DAL.dll
+C:\Users\grampro\Desktop\oct26GBS\working copy gbsjobs 29oct 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+C:\Users\grampro\Desktop\oct26GBS\working copy gbsjobs 29oct 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 29oct 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.deps.json
+D:\working copy gbsjobs 29oct 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 29oct 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+D:\working copy gbsjobs 29oct 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.AssemblyReference.cache
+D:\working copy gbsjobs 29oct 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\working copy gbsjobs 29oct 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfoInputs.cache
+D:\working copy gbsjobs 29oct 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfo.cs
+D:\working copy gbsjobs 29oct 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.CoreCompileInputs.cache
+D:\working copy gbsjobs 29oct 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 29oct 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\refint\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 29oct 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+D:\working copy gbsjobs 29oct 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+C:\Users\grampro\Desktop\oct26GBS\working copy gbsjobs 2 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.deps.json
+C:\Users\grampro\Desktop\oct26GBS\working copy gbsjobs 2 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+C:\Users\grampro\Desktop\oct26GBS\working copy gbsjobs 2 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+C:\Users\grampro\Desktop\oct26GBS\working copy gbsjobs 2 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.AssemblyReference.cache
+C:\Users\grampro\Desktop\oct26GBS\working copy gbsjobs 2 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grampro\Desktop\oct26GBS\working copy gbsjobs 2 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfoInputs.cache
+C:\Users\grampro\Desktop\oct26GBS\working copy gbsjobs 2 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfo.cs
+C:\Users\grampro\Desktop\oct26GBS\working copy gbsjobs 2 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.CoreCompileInputs.cache
+C:\Users\grampro\Desktop\oct26GBS\working copy gbsjobs 2 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+C:\Users\grampro\Desktop\oct26GBS\working copy gbsjobs 2 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\refint\GRAMPRO.Platform.Utility.DAL.dll
+C:\Users\grampro\Desktop\oct26GBS\working copy gbsjobs 2 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+C:\Users\grampro\Desktop\oct26GBS\working copy gbsjobs 2 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 3 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.deps.json
+D:\working copy gbsjobs 3 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 3 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+D:\working copy gbsjobs 3 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.AssemblyReference.cache
+D:\working copy gbsjobs 3 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\working copy gbsjobs 3 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfoInputs.cache
+D:\working copy gbsjobs 3 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfo.cs
+D:\working copy gbsjobs 3 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.CoreCompileInputs.cache
+D:\working copy gbsjobs 3 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 3 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\refint\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 3 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+D:\working copy gbsjobs 3 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 4nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.deps.json
+D:\working copy gbsjobs 4nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 4nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+D:\working copy gbsjobs 4nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.AssemblyReference.cache
+D:\working copy gbsjobs 4nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\working copy gbsjobs 4nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfoInputs.cache
+D:\working copy gbsjobs 4nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfo.cs
+D:\working copy gbsjobs 4nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.CoreCompileInputs.cache
+D:\working copy gbsjobs 4nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 4nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\refint\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 4nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+D:\working copy gbsjobs 4nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 5 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.deps.json
+D:\working copy gbsjobs 5 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 5 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+D:\working copy gbsjobs 5 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.AssemblyReference.cache
+D:\working copy gbsjobs 5 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\working copy gbsjobs 5 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfoInputs.cache
+D:\working copy gbsjobs 5 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfo.cs
+D:\working copy gbsjobs 5 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.CoreCompileInputs.cache
+D:\working copy gbsjobs 5 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 5 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\refint\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 5 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+D:\working copy gbsjobs 5 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 9 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.deps.json
+D:\working copy gbsjobs 9 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 9 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+D:\working copy gbsjobs 9 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.AssemblyReference.cache
+D:\working copy gbsjobs 9 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\working copy gbsjobs 9 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfoInputs.cache
+D:\working copy gbsjobs 9 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfo.cs
+D:\working copy gbsjobs 9 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.CoreCompileInputs.cache
+D:\working copy gbsjobs 9 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 9 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\refint\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 9 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+D:\working copy gbsjobs 9 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 11 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.deps.json
+D:\working copy gbsjobs 11 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 11 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+D:\working copy gbsjobs 11 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.AssemblyReference.cache
+D:\working copy gbsjobs 11 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\working copy gbsjobs 11 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfoInputs.cache
+D:\working copy gbsjobs 11 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfo.cs
+D:\working copy gbsjobs 11 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.CoreCompileInputs.cache
+D:\working copy gbsjobs 11 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 11 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\refint\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 11 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+D:\working copy gbsjobs 11 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 14 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.deps.json
+D:\working copy gbsjobs 14 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 14 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+D:\working copy gbsjobs 14 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.AssemblyReference.cache
+D:\working copy gbsjobs 14 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\working copy gbsjobs 14 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfoInputs.cache
+D:\working copy gbsjobs 14 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfo.cs
+D:\working copy gbsjobs 14 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.CoreCompileInputs.cache
+D:\working copy gbsjobs 14 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 14 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\refint\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 14 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+D:\working copy gbsjobs 14 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 15.1 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.deps.json
+D:\working copy gbsjobs 15.1 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 15.1 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+D:\working copy gbsjobs 15.1 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.AssemblyReference.cache
+D:\working copy gbsjobs 15.1 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\working copy gbsjobs 15.1 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfoInputs.cache
+D:\working copy gbsjobs 15.1 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfo.cs
+D:\working copy gbsjobs 15.1 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.CoreCompileInputs.cache
+D:\working copy gbsjobs 15.1 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 15.1 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\refint\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 15.1 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+D:\working copy gbsjobs 15.1 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 16 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.deps.json
+D:\working copy gbsjobs 16 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 16 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+D:\working copy gbsjobs 16 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.AssemblyReference.cache
+D:\working copy gbsjobs 16 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\working copy gbsjobs 16 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfoInputs.cache
+D:\working copy gbsjobs 16 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfo.cs
+D:\working copy gbsjobs 16 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.CoreCompileInputs.cache
+D:\working copy gbsjobs 16 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 16 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\refint\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 16 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+D:\working copy gbsjobs 16 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 17 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.deps.json
+D:\working copy gbsjobs 17 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 17 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+D:\working copy gbsjobs 17 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.AssemblyReference.cache
+D:\working copy gbsjobs 17 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\working copy gbsjobs 17 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfoInputs.cache
+D:\working copy gbsjobs 17 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfo.cs
+D:\working copy gbsjobs 17 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.CoreCompileInputs.cache
+D:\working copy gbsjobs 17 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 17 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\refint\GRAMPRO.Platform.Utility.DAL.dll
+D:\working copy gbsjobs 17 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+D:\working copy gbsjobs 17 nov 2022\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+C:\Users\grampro\Downloads\GBSJobs\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.deps.json
+C:\Users\grampro\Downloads\GBSJobs\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+C:\Users\grampro\Downloads\GBSJobs\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+C:\Users\grampro\Downloads\GBSJobs\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+C:\Users\grampro\Downloads\GBSJobs\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.AssemblyReference.cache
+C:\Users\grampro\Downloads\GBSJobs\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grampro\Downloads\GBSJobs\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfoInputs.cache
+C:\Users\grampro\Downloads\GBSJobs\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfo.cs
+C:\Users\grampro\Downloads\GBSJobs\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.CoreCompileInputs.cache
+C:\Users\grampro\Downloads\GBSJobs\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+C:\Users\grampro\Downloads\GBSJobs\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+C:\Users\grampro\Downloads\GBSJobs\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+C:\Users\grampro\Downloads\TeamA-API\GBSJobs\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.deps.json
+C:\Users\grampro\Downloads\TeamA-API\GBSJobs\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+C:\Users\grampro\Downloads\TeamA-API\GBSJobs\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+C:\Users\grampro\Downloads\TeamA-API\GBSJobs\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+C:\Users\grampro\Downloads\TeamA-API\GBSJobs\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.AssemblyReference.cache
+C:\Users\grampro\Downloads\TeamA-API\GBSJobs\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grampro\Downloads\TeamA-API\GBSJobs\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfoInputs.cache
+C:\Users\grampro\Downloads\TeamA-API\GBSJobs\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfo.cs
+C:\Users\grampro\Downloads\TeamA-API\GBSJobs\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.CoreCompileInputs.cache
+C:\Users\grampro\Downloads\TeamA-API\GBSJobs\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+C:\Users\grampro\Downloads\TeamA-API\GBSJobs\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+C:\Users\grampro\Downloads\TeamA-API\GBSJobs\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb

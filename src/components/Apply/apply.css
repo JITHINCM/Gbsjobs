@@ -107,7 +107,7 @@
 }
 
 /* form */
-.nametxt {
+.FullName-text {
     position: absolute;
     width: 200px;
     height: 29px;
@@ -124,7 +124,7 @@
 
 }
 
-.boxs {
+.FullName-Box {
     position: absolute;
     width: 235px;
     height: 27px;
@@ -137,70 +137,11 @@
     border-color: transparent;
 }
 
-.nametxt1 {
-    position: absolute;
-    width: 253px;
-    height: 28px;
-    left: 365px;
-    top: 280px;
-
-    font-family: 'Arial';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 15px;
-    line-height: 23px;
-
-    color: rgba(0, 0, 0, 0.51);
-
-}
-
-.box1 {
-    position: absolute;
-    width: 246px;
-    height: 27px;
-    left: 364px;
-    top: 305px;
-
-    background: #F8F7F7;
-    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 10px;
-    border-color: transparent;
-}
-
-.nametxt2 {
-    position: absolute;
-    width: 200px;
-    height: 29px;
-    left: 708px;
-    top: 187px;
-
-    font-family: 'Arial';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 15px;
-    line-height: 23px;
-
-    color: rgba(0, 0, 0, 0.51);
-}
-
-.box2 {
-    position: absolute;
-    width: 241px;
-    height: 27px;
-    left: 707px;
-    top: 212px;
-
-    background: #F8F7F7;
-    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 10px;
-    border-color: transparent;
-}
-
-.nametxt3 {
+.Email-text {
     position: absolute;
     width: 201px;
     height: 28px;
-    left: 711px;
+    left: 366px;
     top: 280px;
 
     font-family: 'Arial';
@@ -213,11 +154,11 @@
 
 }
 
-.box3 {
+.Email-Box {
     position: absolute;
-    width: 245px;
+    width: 235px;
     height: 27px;
-    left: 708px;
+    left: 361px;
     top: 306px;
 
     background: #F8F7F7;
@@ -226,12 +167,12 @@
     border-color: transparent;
 }
 
-.nametxt4 {
+.Mobile-text {
     position: absolute;
-    width: 75px;
-    height: 27px;
-    left: 713px;
-    top: 366px;
+    width: 200px;
+    height: 29px;
+    left: 366px;
+    top: 376px;
 
     font-family: 'Arial';
     font-style: normal;
@@ -239,17 +180,16 @@
     font-size: 15px;
     line-height: 23px;
 
-    color: rgba(0, 0, 0, 0.5);
+    color: rgba(0, 0, 0, 0.51);
+
 }
 
-.box4 {
-
+.Mobile-box {
     position: absolute;
-    width: 238px;
-    height: 67px;
-    left: 706px;
-    top: 394px;
-
+    width: 235px;
+    height: 27px;
+    left: 361px;
+    top: 398px;
 
     background: #F8F7F7;
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -257,12 +197,13 @@
     border-color: transparent;
 }
 
-.nametxt5 {
+
+.Quali-text {
     position: absolute;
-    width: 178px;
-    height: 27px;
-    left: 712px;
-    top: 500px;
+    width: 200px;
+    height: 29px;
+    left: 366px;
+    top: 469px;
 
     font-family: 'Arial';
     font-style: normal;
@@ -270,15 +211,15 @@
     font-size: 15px;
     line-height: 23px;
 
-    color: rgba(0, 0, 0, 0.5);
+    color: rgba(0, 0, 0, 0.51);
 
 }
 
-.box5 {
+.Quali-box {
     position: absolute;
-    width: 132px;
-    height: 33px;
-    left: 797px;
+    width: 235px;
+    height: 27px;
+    left: 361px;
     top: 491px;
 
     background: #F8F7F7;
@@ -287,13 +228,123 @@
     border-color: transparent;
 }
 
+
+.dob-text {
+    position: absolute;
+    width: 200px;
+    height: 29px;
+    left: 718px;
+    top: 280px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 23px;
+
+    color: rgba(0, 0, 0, 0.51);
+
+}
+
+.dob-box {
+    position: absolute;
+    width: 235px;
+    height: 27px;
+    left: 718px;
+    top: 306px;
+
+    background: #F8F7F7;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    border-color: transparent;
+}
+
+.Experience-text {
+    position: absolute;
+    width: 200px;
+    height: 29px;
+    left: 718px;
+    top: 376px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 23px;
+
+    color: rgba(0, 0, 0, 0.51);
+}
+
+.Experience-box {
+
+    position: absolute;
+    width: 235px;
+    height: 27px;
+    left: 718px;
+    top: 398px;
+
+    background: #F8F7F7;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    border-color: transparent;
+}
+
+
+.Skills-text {
+    position: absolute;
+    width: 200px;
+    height: 29px;
+    left: 718px;
+    top: 469px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 23px;
+
+    color: rgba(0, 0, 0, 0.51);
+}
+
+.Skills-box {
+
+    position: absolute;
+    width: 235px;
+    height: 47px;
+    left: 718px;
+    top: 491px;
+
+    background: #F8F7F7;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    border-color: transparent;
+}
+
+
 /* radio button */
+.Gender-text {
+    position: absolute;
+    width: 200px;
+    height: 29px;
+    left: 718px;
+    top: 192px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 23px;
+
+    color: rgba(0, 0, 0, 0.51);
+
+}
+
 .radio {
     position: absolute;
     width: 225px;
     height: 46px;
-    left: 361px;
-    top: 350px;
+    left: 718px;
+    top: 222px;
 
     background: #FFFFFF;
     color: rgba(0, 0, 0, 0.5);
@@ -303,26 +354,26 @@
     position: absolute;
     width: 152px;
     height: 46px;
-    left: 451px;
-    top: 350px;
+    left: 798px;
+    top: 222px;
 
     background: #FFFFFF;
     color: rgba(0, 0, 0, 0.5);
 }
 
-.radioOther{
+.radioOther {
     position: absolute;
     width: 152px;
     height: 46px;
-    left: 527px;
-    top: 350px;
+    left: 868px;
+    top: 222px;
 
     background: #FFFFFF;
     color: rgba(0, 0, 0, 0.5);
 }
 
 /* resum uplod */
-.resume {
+/* .resume {
     position: absolute;
     width: 192px;
     height: 26px;
@@ -336,10 +387,10 @@
     line-height: 23px;
 
     color: #888484;
-}
+} */
 
 /* btn for choose */
-.choose {
+/* .choose {
     position: absolute;
     width: 300px;
     height: 26px;
@@ -349,23 +400,29 @@
     font-family: 'Arial';
     font-style: normal;
     font-weight: 400;
-    /* font-size: 15px; */
-    /* line-height: 23px; */
-
     color: #000000;
 
-}
+} */
 
 /* submit button */
 .submit {
     position: absolute;
     width: 73px;
     height: 29px;
-    left: 623px;
-    top: 590px;
-
+    left: 620px;
+    top: 600px;
+    border-color: transparent;
     background: linear-gradient(180deg, rgba(239, 64, 54, 0.6724) 0%, rgba(255, 195, 119, 0.82) 100%);
     border-radius: 10px;
     color: #F6FFF5;
     cursor: pointer;
 }
+.BacktoDetails-icon {
+    position: absolute;
+    left: 1.95%;
+    right: 97.26%;
+    top: 22.64%;
+    bottom: 75.19%;
+    cursor: pointer;
+}
+ 

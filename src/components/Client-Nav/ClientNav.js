@@ -3,8 +3,13 @@ import "./ClientNav.css"
 import React from 'react'
 import GBSJOBS from '../img/GBSJOBS.png'
 import Logoutimg from '../img/Logout.png'
+// import { useHistory } from 'react-router-dom';
 
-function ClientNav() {
+
+function ClientNav(props) {
+
+   // const Email = props //.location.state || {};
+   // const history = useHistory();
 
     const homeBtn = () => {
         window.location.replace("http://localhost:3000/?#/homepage");
@@ -18,7 +23,11 @@ function ClientNav() {
         window.location.replace("http://localhost:3000/?#/jobapply");
      };
   
-     const profileBtn = () => {
+     const profileBtn = (props) => {
+      // history.push({
+      //    pathname: '/profile',
+      //    state: props
+      //  });
         window.location.replace("http://localhost:3000/#/profile");
      };
   
@@ -47,7 +56,7 @@ function ClientNav() {
 <div className="navtxthm2" id='jobApply' onClick={jobApply}  >
    Applied Jobs
 </div>
-<div className="navtxthm3" id="profileBtn" onClick={profileBtn} >
+<div className="navtxthm3" id="profileBtn"  onClick={() => profileBtn()}  >
    Profile
 </div>
 <div className="navtxthm4" id="contactBtn" onClick={contactBtn}>
@@ -63,3 +72,4 @@ function ClientNav() {
 }
 
 export default ClientNav
+  

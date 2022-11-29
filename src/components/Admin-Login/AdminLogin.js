@@ -1,45 +1,23 @@
 import React, { Fragment, useState } from 'react'
-
-//import React from 'react'
-
 import GBSJOBS from '../img/GBSJOBS.png'
-
 import './AdminLogin.css'
-
 import imge from '../img/AdminBg.png';
-
 import axios from 'axios';
-
-
 
 
 function Adminlogin() {
 
     const Userlogin = () => {
 
-
-
         window.location.replace("http://localhost:3000/#/");
 
     };
-
-
 
     const [email, setEmail] = useState("");
 
     const [password, setPassword] = useState("");
 
-
-
     const [showError, setShowError] = useState(false);
-
-
-
-
-
-
-
-
 
     const handleEmailChange = (value) => {
 
@@ -53,11 +31,7 @@ function Adminlogin() {
 
     };
 
-
-
     const handleLogin = () => {
-
-
 
         const data = {
 
@@ -68,60 +42,46 @@ function Adminlogin() {
         };
 
 
-
-
-
         const url = 'https://localhost:5001/GBSJobs/v1/login';
 
         axios.post(url, data).then((response) => {
 
-            // console.log(data);
-
-            // console.log(response.data);
-
             // console.log(response.data.Success);
 
             if (response.data.Success === true) {
+                const url = 'https://localhost:5001/GBSJobs/v2/getusertype?';
+        axios.get(url,
+          {
+            params: {
+              email: email
+            }
+          }).then((res) => {
+            // console.log(response.data.Data[0].UserType);
+            // console.log(response.data.Data[0].User_Id);
+            localStorage.setItem('Usertype', res.data.Data[0].UserType)
+            localStorage.setItem('user_id', res.data.Data[0].User_Id)
+               console.log( res.data.Data[0].UserType);
 
-                const url1 = 'https://localhost:5001/GBSJobs/v1/users';
-
-                axios.get(url1).then((res) => {
-
-                    // console.log(res.data.Data[1].UserType);
-
-
-
-                })
-
+            if (res.data.Data[0].UserType === 'Admin') 
+            { 
                 window.location.replace("http://localhost:3000/?#/adminhome");
-
-
-
             }
 
+            else{alert("Only admin can login Here")}
 
+          })
+            }
 
             else {
 
                 setShowError(true);
-
             }
-
-
-
-
-
         })
-
-
-
     }
 
     return (
 
         <Fragment>
-
-
 
             <div>
 
@@ -134,10 +94,6 @@ function Adminlogin() {
                     </div>
 
                 </div>
-
-
-
-
 
                 <div className='header'></div>
 
@@ -169,43 +125,28 @@ function Adminlogin() {
 
                 </div>
 
-
-
-                <div className='ErrorLogin'>
-
+                <div className='AdminErrorLogin'>
                     {
-
-                        showError ? <small>Incurrect Email or Password</small> : null
-
+                        showError ? <small>*Incorrect Email or Password</small> : null
                     }
 
                 </div>
 
                 <div>
 
-                <div className="userlog"> User?</div>
+                    <div className="userlog"> User?</div>
 
-                <div><button className='signupBtn' id='btnSignup' onClick={Userlogin} >Login</button></div>
+                    <div><button className='signupBtn' id='btnSignup' onClick={Userlogin} >Login</button></div>
 
-              </div>
+                </div>
 
             </div>
 
-
-
         </Fragment>
-
-
 
     )
 
 }
-
-
-
-
-
-
 
 export default Adminlogin
 

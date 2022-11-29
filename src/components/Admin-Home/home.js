@@ -7,6 +7,10 @@ function home() {
     const adminNavbtn = () => {
         window.location.replace("http://localhost:3000/#/adminjob");
     };
+    const ViewApplicationsBtn = () => {
+        window.location.replace("http://localhost:3000/#/adminapplication");
+    };
+    
     return (
         <div>
             <Nav />
@@ -17,7 +21,7 @@ function home() {
                         <button className='updateJobBtn' id='adminNavbtn' onClick={adminNavbtn}>Update Jobs </button>
                     </div>
                     <div >
-                        <button className='viewJobBtn'>View job Applications </button>
+                        <button className='viewJobBtn' onClick={ViewApplicationsBtn} >View job Applications  </button>
                     </div>
                 </div>
             </div>

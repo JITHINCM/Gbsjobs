@@ -1,317 +1,599 @@
-/* profile img */
-.profileimg {
+.main-applicant{
+    padding-bottom: 70%;
+}
+.BacktoAdminApplication-icon {
     position: absolute;
-    left: 45%;
-    right: 47.5%;
-    top: 28.06%;
-    bottom: 60.56%;
-
-
+    left: 1.95%;
+    right: 97.26%;
+    top: 22.64%;
+    bottom: 75.19%;
+    cursor: pointer;
 }
 
-/* container */
-.profile-container {
-    background: linear-gradient(180deg, rgba(24, 79, 121, 0.5) 0%, rgba(34, 96, 142, 0) 100%);
-    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.25));
+.User-Details {
+    position: absolute;
+    width: 177px;
+    height: 33px;
+    left: 334px;
+    top: 148px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+
+    color: #000000;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.Job-Details {
+    position: absolute;
+    width: 177px;
+    height: 33px;
+    left: 960px;
+    top: 148px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+
+    color: #000000;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.userdetails-container {
+    position: absolute;
+    width: 572px;
+    height: 502px;
+    left: 149px;
+    top: 182px;
+
+    background: #F8F7F7;
     box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
-    display: flex;
-    justify-content: center;
-    height: 1057px;
-    width: 943px;
-    padding-left: 40px;
-    margin-left: 240px;
-    top: 303px;
-    bottom: 20px;
-    position: absolute;
-
 }
 
-/* container tex */
-.pflname {
+.JobDetails-container {
     position: absolute;
-    width: 288px;
-    height: 44.24px;
-    left: 56px;
-    top: 54.47px;
+    width: 572px;
+    height: 494px;
+    left: 798px;
+    top: 185px;
 
-    font-family: 'Be Vietnam';
+    background: #F8F7F7;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.Applicant_Profile_Img {
+    position: absolute;
+    left: 39.73%;
+    right: 70.39%;
+    top: 1.7%;
+    bottom: 61.11%;
+}
+
+.Applicant-Name {
+    position: absolute;
+    width: 167px;
+    height: 21px;
+    left: 160px;
+    top: 117px;
+
+    font-family: 'Arial';
     font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 35px;
-
-    color: #000000;
-
-}
-
-.line1 {
-    position: absolute;
-    width: 980px;
-    height: 0px;
-    left: 2px;
-    top: 96px;
-
-    border: 1px solid #939393;
-}
-
-.pflPhone {
-    position: absolute;
-    width: 288px;
-    height: 44.24px;
-    left: 56px;
-    top: 140.47px;
-
-    font-family: 'Be Vietnam';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 35px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
 
     color: #000000;
 }
 
-.line2 {
+.Applicant-Name-Value {
     position: absolute;
-    width: 980px;
-    height: 0px;
-    left: 2px;
-    top: 196px;
-    border: 1px solid #939393;
-}
+    width: 167px;
+    height: 21px;
+    left: 309px;
+    top: 117px;
 
-.Emailid {
-    position: absolute;
-    width: 288px;
-    height: 44.24px;
-    left: 56px;
-    top: 230px;
-
-    font-family: 'Be Vietnam';
+    font-family: 'Arial';
     font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 35px;
+    /* font-weight: 700; */
+    font-size: 14px;
+    line-height: 16px;
 
     color: #000000;
 }
 
-.line3 {
+.Contact-number {
     position: absolute;
-    width: 980px;
-    height: 0px;
-    left: 2px;
-    top: 296px;
-    border: 1px solid #939393;
+    width: 167px;
+    height: 21px;
+    left: 160px;
+    top: 157px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+}
+
+.Contact-number-value {
+    position: absolute;
+    width: 167px;
+    height: 21px;
+    left: 309px;
+    top: 157px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    /* font-weight: 700; */
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+}
+
+.Email {
+    position: absolute;
+    width: 167px;
+    height: 21px;
+    left: 160px;
+    top: 197px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+}
+
+.Email-value {
+    position: absolute;
+    width: 167px;
+    height: 21px;
+    left: 309px;
+    top: 197px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    /* font-weight: 700; */
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
 }
 
 .Gender {
     position: absolute;
-    width: 288px;
-    height: 44.24px;
-    left: 56px;
-    top: 320px;
+    width: 167px;
+    height: 21px;
+    left: 160px;
+    top: 237px;
 
-    font-family: 'Be Vietnam';
+    font-family: 'Arial';
     font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 35px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
 
     color: #000000;
 }
 
-.line4 {
+.Gender-value {
     position: absolute;
-    width: 980px;
-    height: 0px;
-    left: 2px;
-    top: 396px;
-    border: 1px solid #939393;
+    width: 167px;
+    height: 21px;
+    left: 309px;
+    top: 237px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    /* font-weight: 700; */
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+
 }
 
-
-.pflDOB {
+.DOB {
     position: absolute;
-    width: 288px;
-    height: 44.24px;
-    left: 56px;
-    top: 420px;
+    width: 167px;
+    height: 21px;
+    left: 160px;
+    top: 277px;
 
-    font-family: 'Be Vietnam';
+    font-family: 'Arial';
     font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 35px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
 
     color: #000000;
 }
 
-.line5 {
+.DOB-value {
     position: absolute;
-    width: 980px;
-    height: 0px;
-    left: 2px;
-    top: 496px;
-    border: 1px solid #939393;
-}
+    width: 167px;
+    height: 21px;
+    left: 309px;
+    top: 277px;
 
-
-
-.Address {
-    position: absolute;
-    width: 288px;
-    height: 44.24px;
-    left: 56px;
-    top: 520px;
-
-    font-family: 'Be Vietnam';
+    font-family: 'Arial';
     font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 35px;
+    /* font-weight: 700; */
+    font-size: 14px;
+    line-height: 16px;
 
     color: #000000;
 }
 
-.line6 {
+.Skill {
     position: absolute;
-    width: 980px;
-    height: 0px;
-    left: 2px;
-    top: 640px;
-    border: 1px solid #939393;
-}
+    width: 167px;
+    height: 21px;
+    left: 160px;
+    top: 317px;
 
-.pflSkills {
-    position: absolute;
-    width: 288px;
-    height: 44.24px;
-    left: 56px;
-    top: 680px;
-
-    font-family: 'Be Vietnam';
+    font-family: 'Arial';
     font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 35px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
 
     color: #000000;
 }
 
-.line7 {
+.Skill-value {
     position: absolute;
-    width: 980px;
-    height: 0px;
-    left: 2px;
-    top: 796px;
-    border: 1px solid #939393;
+    width: 167px;
+    height: 21px;
+    left: 309px;
+    top: 317px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    /* font-weight: 700; */
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+}
+
+.Experience {
+    position: absolute;
+    width: 167px;
+    height: 21px;
+    left: 160px;
+    top: 357px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+}
+
+.Experience-value {
+    position: absolute;
+    width: 167px;
+    height: 21px;
+    left: 309px;
+    top: 357px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    /* font-weight: 700; */
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
 }
 
 .Qualification {
     position: absolute;
-    width: 288px;
-    height: 44.24px;
-    left: 56px;
-    top: 850px;
-
-    font-family: 'Be Vietnam';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 35px;
-
-    color: #000000;
-}
-
-.line8 {
-    position: absolute;
-    width: 980px;
-    height: 0px;
-    left: 2px;
-    top: 940px;
-    border: 1px solid #939393;
-}
-
-.pflResume {
-    position: absolute;
-    width: 288px;
-    height: 44.24px;
-    left: 56px;
-    top: 980px;
-
-    font-family: 'Be Vietnam';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 35px;
-
-    color: #000000;
-}
-
-.Resumepdf {
-    position: absolute;
-    width: 265px;
-    height: 44.24px;
-    left: 136px;
-    top: 986px;
+    width: 167px;
+    height: 21px;
+    left: 160px;
+    top: 397px;
 
     font-family: 'Arial';
     font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 23px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
 
-    color: #1E11FD;
+    color: #000000;
 }
 
-.Shortlisted {
+.Qualification-value {
     position: absolute;
-    width: 137px;
-    height: 50px;
-    left: 356px;
-    top: 1406px;
+    width: 167px;
+    height: 21px;
+    left: 309px;
+    top: 397px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    /* font-weight: 700; */
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+}
+
+.Applied-Date {
+    position: absolute;
+    width: 167px;
+    height: 21px;
+    left: 160px;
+    top: 437px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+}
+
+.Applie-Date-value {
+    position: absolute;
+    width: 167px;
+    height: 21px;
+    left: 309px;
+    top: 437px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    /* font-weight: 700; */
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+}
+
+.Applicant-JobName {
+    position: absolute;
+    width: 167px;
+    height: 21px;
+    left: 160px;
+    top: 117px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+}
+
+
+.Applicant-JobName-Value {
+    position: absolute;
+    width: 167px;
+    height: 21px;
+    left: 309px;
+    top: 117px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    /* font-weight: 700; */
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+}
+
+.Applicant-Category {
+    position: absolute;
+    width: 167px;
+    height: 21px;
+    left: 160px;
+    top: 177px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+}
+
+.Applicant-Category-value {
+    position: absolute;
+    width: 167px;
+    height: 21px;
+    left: 309px;
+    top: 177px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    /* font-weight: 700; */
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+}
+
+.Needed-Skills {
+    position: absolute;
+    width: 167px;
+    height: 21px;
+    left: 160px;
+    top: 237px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+}
+
+.Needed-Skills-value {
+    position: absolute;
+    width: 291px;
+    height: 21px;
+    left: 309px;
+    top: 237px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    /* font-weight: 700; */
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+}
+
+.Needed-Experience {
+    position: absolute;
+    width: 167px;
+    height: 21px;
+    left: 160px;
+    top: 297px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+}
+
+.Needed-Experience-value {
+    position: absolute;
+    width: 167px;
+    height: 21px;
+    left: 309px;
+    top: 297px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    /* font-weight: 700; */
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+}
+
+.Last_Date {
+    position: absolute;
+    width: 167px;
+    height: 21px;
+    left: 160px;
+    top: 357px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+}
+
+.Last-Date_value {
+    position: absolute;
+    width: 167px;
+    height: 21px;
+    left: 309px;
+    top: 357px;
+
+    font-family: 'Arial';
+    font-style: normal;
+    /* font-weight: 700; */
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #000000;
+}
+
+.applicant-Shortlist {
+    position: absolute;
+    width: 150px;
+    height: 38px;
+    left: 552px;
+    top: 750px;
+    border-radius: 10px 0px 0px 10px;
     background: #BCE9C8;
-    border-radius: 10px;
     border-color: transparent;
+    cursor: pointer;
 }
-
-.Reject {
+/* .applicant-Shortlisted {
     position: absolute;
-    width: 137px;
-    height: 50px;
-    left: 846px;
-    top: 1406px;
+    width: 150px;
+    height: 38px;
+    left: 552px;
+    top: 750px;
+    border-radius: 10px 0px 0px 10px;
+    background: #0d9431;
+    border-color: transparent;
+    cursor: pointer;
+} */
 
+.applicant-Reject {
+    position: absolute;
+    width: 150px;
+    height: 38px;
+    left: 720px;
+    top: 750px;
     background: #FD9D98;
-    border-radius: 10px;
+    border-radius: 0px 15px 15px 0px;
     border-color: transparent;
+    cursor: pointer;
 }
+/* .applicant-Rejected {
+    position: absolute;
+    width: 150px;
+    height: 38px;
+    left: 720px;
+    top: 750px;
+    background: #f0150a;
+    border-radius: 0px 15px 15px 0px;
+    border-color: transparent;
+    cursor: pointer;
+} */
 
-.TypeRespons {
-    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
-    border-radius: 10px;
-    display: flex;
-    justify-content: center;
-    width: 554px;
-    height: 182px;
+.applicant-Type-Response {
+    position: absolute;
+    width: 468px;
+    height: 105px;
+    left: 482px;
+    top: 811px;
     background: #D9D9D9;
-    padding-left: 40px;
-    margin-left: 380px;
-    top: 1473px;
-    bottom: 20px;
     border-color: transparent;
-    position: absolute;
-
+ 
 }
 
-.PflDone {
+.applicant-Send {
     position: absolute;
-    width: 96px;
-    height: 39px;
-    left: 616px;
-    top: 1676px;
-    border-color: transparent;
+    width: 104px;
+    height: 40px;
+    top: 851px;
+    left: 962px;
     background: rgba(24, 79, 121, 0.62);
     border-radius: 10px;
+    border-color: transparent;
+    cursor: pointer;
 }
